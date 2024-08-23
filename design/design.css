@@ -1,0 +1,210 @@
+/* generel ---------------------------------------------------------- */
+
+h1 {font-size: 48px}
+h2 {font-size: 22px}
+h3 {font-size: 18px}
+h4 {font-size: 16px}
+
+body {
+  background-image: url(../pictures/bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.container {
+  padding: 20px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* navigation -------------------------------- */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+}
+
+.navbar img {
+  float: left;
+  width: 180px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav {
+  float: right;
+  margin-right: 30px;
+}
+
+li {
+  display: inline;
+  padding: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+  display: inline-block;
+  padding-top: 15px;
+}
+
+nav a:hover {
+  color: #00b2b2;
+}
+
+nav a:active {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 700px) {
+  nav {
+    width: 100%;
+    margin-top: -5px;
+  }
+
+  nav li {
+    display: block;
+    text-align: center;
+  }
+}
+
+/* content ---------------- */
+.content {
+width: 100%;
+}
+
+/* Footer --------------------------- */
+.footer{
+  margin: 10px;
+}
+
+.link-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.share-button {
+  width: 50px;
+  height: 50px;
+  background-color: #c5cafe;
+  color: #575b8e;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #434343;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 9px;
+  font-weight: 900;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.imp-container {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.impress {
+  color: rgb(255, 255, 255);
+}
+
+.share-button img {
+  max-width: 90%;
+  max-height: 90%;
+}
+
+.share-button:hover {
+  background-color: #8e8ec3;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.link-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.link-table th,
+.link-table td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.link-table th {
+  background-color: #f2f2f2;
+}
+
+/* graph ------------------------------------------------------------------------------------------ */
+
+
+.graph-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*  ------------------------------------------------------------------------------------------ */
+.contentbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.text-box {
+  flex: 1;
+  margin-bottom: 5px; /* Abstand zwischen Text und Buttons */
+}
+
+.top-right-image {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 150px; /* Passe die Größe nach Bedarf an */
+  height: auto;
+}
+
+.buttons {
+  position: absolute;
+  bottom: 10px; /* Abstand vom unteren Rand des Containers */
+  right: 10px; /* Abstand vom rechten Rand des Containers */
+  display: flex;
+  gap: 5px; /* Abstand zwischen den Buttons */
+}
+
+.buttons .button {
+  text-decoration: none;
+  color: white;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
