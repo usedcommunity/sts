@@ -24,7 +24,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
-        "from": "Stokholmresiliance Center"
+        "from": href="https://www.stockholmresilience.org/research/planetary-boundaries.html"
       }
     ,
     {
@@ -828,7 +828,7 @@ var nodes = [
     {
       "id": "4.3",
        
-        "label": "Abiotic Refroms",
+        "label": "Abiotic resources",
         "x": 215.50409,
         "y": -1714.3013,
         "value": 12.0,
@@ -842,7 +842,7 @@ var nodes = [
     {
       "id": "4.3.1",
        
-        "label": "Depletion of abiotic refroms- elemental reserves",
+        "label": "Depletion of abiotic resources- elemental reserves",
         "x": 238.12665,
         "y": -1687.6378,
         "value": 12.0,
@@ -856,7 +856,7 @@ var nodes = [
     {
       "id": "4.3.2",
        
-        "label": "Depletion of Abiotic Refroms- Fossil Fuels",
+        "label": "Depletion of Abiotic resources- Fossil Fuels",
         "x": 258.09412,
         "y": -1728.3907,
         "value": 12.0,
@@ -1220,7 +1220,7 @@ var nodes = [
     {
       "id": "5.17",
        
-        "label": "Mineral refroms",
+        "label": "Mineral resources",
         "x": 10.214874,
         "y": -1179.4698,
         "value": 12.0,
@@ -1234,7 +1234,7 @@ var nodes = [
     {
       "id": "5.18",
        
-        "label": "Fossil refroms",
+        "label": "Fossil resources",
         "x": 101.64883,
         "y": -1254.473,
         "value": 12.0,
@@ -1290,7 +1290,7 @@ var nodes = [
     {
       "id": "6.3",
        
-        "label": "Refrom depletion",
+        "label": "resource depletion",
         "x": 220.6373,
         "y": -1508.392,
         "value": 12.0,
@@ -1654,13 +1654,13 @@ var nodes = [
     {
       "id": "7.15",
        
-        "label": "Refrom use, minerals and metals",
+        "label": "resource use, minerals and metals",
         "x": -28.252174,
         "y": -1429.6207,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "title": "Abiotic refrom depletion – ADP ultimate reserves (kg Sb eq)",
+        "title": "Abiotic resource depletion – ADP ultimate reserves (kg Sb eq)",
         "sustainability dimension": "Ölologisch",
         "from": "EC"
       }
@@ -1668,13 +1668,13 @@ var nodes = [
     {
       "id": "7.16",
        
-        "label": "Refrom use, fossils",
+        "label": "resource use, fossils",
         "x": -9.573898,
         "y": -1282.2336,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "title": "Abiotic refrom depletion, fossil fuels – ADP-fossil (MJ)",
+        "title": "Abiotic resource depletion, fossil fuels – ADP-fossil (MJ)",
         "sustainability dimension": "Ölologisch",
         "from": "EC"
       }
@@ -1780,7 +1780,7 @@ var nodes = [
     {
       "id": "8.6",
        
-        "label": "Access to Immaterial Refroms",
+        "label": "Access to Immaterial resources",
         "x": -1173.8389,
         "y": -1304.9703,
         "value": 12.0,
@@ -1794,7 +1794,7 @@ var nodes = [
     {
       "id": "8.7",
        
-        "label": "Access to Material Refroms",
+        "label": "Access to Material resources",
         "x": -1158.3813,
         "y": -1324.8389,
         "value": 12.0,
@@ -2354,7 +2354,7 @@ var nodes = [
     {
       "id": "9.9",
        
-        "label": "Access to material refroms",
+        "label": "Access to material resources",
         "x": -803.43774,
         "y": -1823.7378,
         "value": 12.0,
@@ -3964,7 +3964,7 @@ var nodes = [
     {
       "id": "17.16",
        
-        "label": "Mineral refroms",
+        "label": "Mineral resources",
         "x": -322.9154,
         "y": -1329.3425,
         "value": 12.0,
@@ -3978,7 +3978,7 @@ var nodes = [
     {
       "id": "17.17",
        
-        "label": "Fossil refroms",
+        "label": "Fossil resources",
         "x": -400.1819,
         "y": -1263.9386,
         "value": 12.0,
@@ -4230,7 +4230,7 @@ var nodes = [
     {
       "id": "17.35",
        
-        "label": "Material refroms availability",
+        "label": "Material resources availability",
         "x": -501.20544,
         "y": -1398.0177,
         "value": 12.0,

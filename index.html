@@ -7,197 +7,367 @@
     <title>used community</title>
     <link href="design/design.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
-    
-    <script src="script/script.js"></script>
-    
-    <script
-      type="text/javascript"
-      src="script/vis-network.min.js"
-    ></script>
 
+    <script src="script/vis-network.min.js"></script>
     <script src="script/data.js"></script>
-   
-   <style type="text/css">
+
+    <!-- SheetJS für Excel-Generierung -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+
+    <style type="text/css">
         #mynetwork {
-          margin-left: 5%;
-          margin-right: 5%;
-          width: 1600px;
-          height: 1200px;
+            margin-left: 5%;
+            margin-right: 5%;
+            width: 1600px;
+            height: 800px;
+            float: left;
+        }
+
+        #selected-nodes {
+            margin-left: 30px;
+            padding: 10px;
+            background-color: #f1f1f1;
+            border: 1px solid #ccc;
+            width: 200px;
+            height: 400px;
+            float: left;
+            overflow-y: auto;
+        }
+
+        .node-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px;
+            margin: 5px 0;
+            background-color: #e0e0e0;
+            border-radius: 3px;
+            color: white;
+            position: relative;
+        }
+
+        .node-item .delete-btn {
+            display: none;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+
+        .node-item:hover .delete-btn {
+            display: inline;
+        }
+
+        .download-button, .reset-button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .download-button:hover, .reset-button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Ursprüngliches CSS für das Design */
+        #search-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #search-input {
+            padding: 10px;
+            font-size: 16px;
+            width: 300px;
+            margin-right: 10px;
         }
     </style>
-
 </head>
 
 <body>
-  <div class="container">
-    <div class="navbar">
-      <img src="pictures/used-logo-white-top.png" alt="logo">
-      <nav>
-        <ul>
-          <li><a href="index.html">used</a></li>
-          <li><a href="data.html">requirements</a></li>
-          <li><a href="https://github.com/usedcommunity/used/wiki" target="_blank">wiki</a></li>
-          <li><a href="https://mastodon.social/@usedcommunity" target="_blank">blog</a></li>
-        </ul>
-      </nav>
-    </div>
+    <div class="container">
+        <div class="navbar">
+            <img src="pictures/used-logo-white-top.png" alt="logo">
+            <nav>
+                <ul>
+                    <li><a href="index.html">used</a></li>
+                    <li><a href="data.html">requirements</a></li>
+                    <li><a href="https://github.com/usedcommunity/used/wiki" target="_blank">wiki</a></li>
+                    <li><a href="https://mastodon.social/@usedcommunity" target="_blank">blog</a></li>
+                </ul>
+            </nav>
+        </div>
 
-    <div class="content">     
-                  
-      <div class="graph-container">
-        <div id="mynetwork">
-          <script type="text/javascript">
-            var network;
-            var allNodes;
-            var highlightActive = false;
-            var nodesDataset = new vis.DataSet(nodes);
-            var edgesDataset = new vis.DataSet(edges);
-      
-            function redrawAll() {
-              var container = document.getElementById("mynetwork");
-              var options = {
-                nodes: {
-                  shape: "dot",
-                  scaling: {
-                    min: 10,
-                    max: 30,
-                    label: {
-                      min: 8,
-                      max: 30,
-                      drawThreshold: 12,
-                      maxVisible: 20,
-                      font: {
-                        multi: true,
-                        html: true,
-                      },
-                    },
-                  },
-                  font: {
-                    size: 12,
-                    color: '#ffffff', // Weiß
-                    face: "Tahoma",
-                  },
-                },
-                edges: {
-                  width: 0.15,
-                  color: { inherit: "from" },
-                  smooth: {
-                    type: "continuous",
-                  },
-                },
-                physics: false,
-                interaction: {
-                  tooltipDelay: 200,
-                  hideEdgesOnDrag: true,
-                  hideEdgesOnZoom: true,
-                },
-              };
-              var data = { nodes: nodesDataset, edges: edgesDataset };
-              network = new vis.Network(container, data, options);
-              allNodes = nodesDataset.get({ returnType: "Object" });
-              network.on("click", neighbourhoodHighlight);
-            }
-      
-            function neighbourhoodHighlight(params) {
-              // if something is selected:
-              if (params.nodes.length > 0) {
-                highlightActive = true;
-                var i, j;
-                var selectedNode = params.nodes[0];
-                var degrees = 2;
-      
-                // mark all nodes as hard to read.
-                for (var nodeId in allNodes) {
-                  allNodes[nodeId].color = "rgba(255,255,255,0.5)";
-                  if (allNodes[nodeId].hiddenLabel === undefined) {
-                    allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
-                    allNodes[nodeId].label = undefined;
-                  }
-                }
-                var connectedNodes = network.getConnectedNodes(selectedNode);
-                var allConnectedNodes = [];
-      
-                // get the second degree nodes
-                for (i = 1; i < degrees; i++) {
-                  for (j = 0; j < connectedNodes.length; j++) {
-                    allConnectedNodes = allConnectedNodes.concat(
-                      network.getConnectedNodes(connectedNodes[j])
-                    );
-                  }
-                }
-      
-                // all second degree nodes get a different color and their label back
-                for (i = 0; i < allConnectedNodes.length; i++) {
-                  allNodes[allConnectedNodes[i]].color = "rgba(255,255,255,0.75)";
-                  if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
-                    allNodes[allConnectedNodes[i]].label =
-                      allNodes[allConnectedNodes[i]].hiddenLabel;
-                    allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
-                  }
-                }
-      
-                // all first degree nodes get their own color and their label back
-                for (i = 0; i < connectedNodes.length; i++) {
-                  allNodes[connectedNodes[i]].color = "rgba(255,255,255,0.75)";
-                  if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
-                    allNodes[connectedNodes[i]].label =
-                      allNodes[connectedNodes[i]].hiddenLabel;
-                    allNodes[connectedNodes[i]].hiddenLabel = undefined;
-                  }
-                }
-      
-                // the main node gets its own color and its label back.
-                allNodes[selectedNode].color = undefined;
+        <div class="content">
+            <!-- Suchfeld hinzufügen -->
+            <div id="search-container">
+                <input type="text" id="search-input" placeholder="Knoten suchen...">
+                <button class="download-button" onclick="searchNode()">Suchen</button>
+            </div>
+
+            <div class="graph-container">
+                <!-- Download Button für die Excel-Datei -->
+                <button class="download-button" onclick="downloadFile()">Zielsystem Downloaden</button>
                 
-                if (allNodes[selectedNode].hiddenLabel !== undefined) {
-                  allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
-                  allNodes[selectedNode].hiddenLabel = undefined;
-                }
+                <!-- Download Button für die Knoten- und Kantenliste -->
+                <button class="download-button" onclick="exportToExcel()">Knoten- und Kantenliste</button>
 
-              } else if (highlightActive === true) {
-                
-                // reset all nodes
-                for (var nodeId in allNodes) {
-                  allNodes[nodeId].color = undefined;
-                  if (allNodes[nodeId].hiddenLabel !== undefined) {
-                    allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
-                    allNodes[nodeId].hiddenLabel = undefined;
-                  }
-                }
-                highlightActive = false;
-              }
-      
-              // transform the object into an array
-              var updateArray = [];
-              
-              for (nodeId in allNodes) {
-                if (allNodes.hasOwnProperty(nodeId)) {
-                  updateArray.push(allNodes[nodeId]);
-                }
-              }
-              nodesDataset.update(updateArray);
-            }
-      
-            redrawAll();
+                <div id="mynetwork"></div>
 
-          </script>
-        </div>   
-      </div>
+                <!-- Liste für ausgewählte Knoten -->
+                <div id="selected-nodes">
+                    <h3>Deine Ziele</h3>
+                </div>
+
+                <!-- Buttons für die Liste -->
+                <button class="download-button" onclick="downloadSelectedNodes()">Liste herunterladen</button>
+                <button class="reset-button" onclick="resetSelectedNodes()">Liste leeren</button>
+
+                <script type="text/javascript">
+                    var network;
+                    var allNodes;
+                    var originalColors = {}; // Speichern der ursprünglichen Farben
+                    var selectedNodes = []; // Liste für doppelt geklickte Knoten
+                    var nodesDataset = new vis.DataSet(nodes);
+                    var edgesDataset = new vis.DataSet(edges);
+                    var highlightActive = false;
+
+                    function redrawAll() {
+                        var container = document.getElementById("mynetwork");
+                        var options = {
+                            nodes: {
+                                shape: "dot",
+                                scaling: {
+                                    min: 10,
+                                    max: 30,
+                                    label: {
+                                        min: 8,
+                                        max: 30,
+                                        drawThreshold: 12,
+                                        maxVisible: 20,
+                                        font: {
+                                            multi: true,
+                                            html: true,
+                                        },
+                                    },
+                                },
+                                font: {
+                                    size: 12,
+                                    color: '#ffffff', // Weiß
+                                    face: "Tahoma",
+                                    align: "center", // Text mittig
+                                    vadjust: -20     // Label höher anzeigen
+                                },
+                                labelAlignment: "center",
+                            },
+                            edges: {
+                                width: 0.15,
+                                color: { inherit: "from" },
+                                smooth: {
+                                    type: "continuous",
+                                },
+                            },
+                            physics: false,
+                            interaction: {
+                                tooltipDelay: 200,
+                                hideEdgesOnDrag: true,
+                                hideEdgesOnZoom: true,
+                                hover: true,
+                            },
+                        };
+
+                        allNodes = nodesDataset.get({ returnType: "Object" });
+                        for (var nodeId in allNodes) {
+                            var node = allNodes[nodeId];
+                            node.hiddenLabel = node.label;  // Speichere das ursprüngliche Label
+                            node.title = `Label: ${node.label}
+                              Object: ${node.object}
+                              Einheit: ${node.title}
+                              Sustainability Dimension: ${node.sustainabilityDimension}
+                              Quelle: ${node.from}`;
+                        }
+
+                        var data = { nodes: nodesDataset, edges: edgesDataset };
+                        network = new vis.Network(container, data, options);
+
+                        // Speichere die ursprünglichen Farben der Knoten
+                        for (var nodeId in allNodes) {
+                            originalColors[nodeId] = allNodes[nodeId].color;
+                        }
+
+                        // Event-Listener für Knoten-Klicks
+                        network.on("click", function (params) {
+                            if (params.nodes.length > 0) {
+                                neighbourhoodHighlight(params); // Wenn ein Knoten ausgewählt wurde
+                            } else {
+                                resetGraph(); // Wenn in den leeren Raum geklickt wurde
+                            }
+                        });
+
+                        // Event für Doppelklick auf Knoten
+                        network.on("doubleClick", function (params) {
+                            if (params.nodes.length > 0) {
+                                var selectedNodeId = params.nodes[0];
+                                addNodeToList(selectedNodeId);
+                            }
+                        });
+                    }
+
+                    // Suchfunktion
+                    function searchNode() {
+                        var searchValue = document.getElementById("search-input").value.toLowerCase();
+                        var nodeFound = false;
+
+                        // Setze alle Knoten auf ausgegraut und verstecke ihre Labels
+                        resetAllNodes();
+
+                        // Suche nach dem Knoten mit dem Label
+                        for (var nodeId in allNodes) {
+                            if (allNodes[nodeId].hiddenLabel && allNodes[nodeId].hiddenLabel.toLowerCase().includes(searchValue)) {
+                                allNodes[nodeId].color = "purple"; // Gesuchter Knoten immer pink hervorheben
+                                allNodes[nodeId].label = allNodes[nodeId].hiddenLabel; // Label wieder anzeigen
+                                nodeFound = true;
+                            }
+                        }
+
+                        if (!nodeFound) {
+                            alert("Kein Knoten mit diesem Label gefunden.");
+                        }
+
+                        updateNodes();
+                    }
+
+                    // Funktion zur Rücksetzung aller Knotenfarben und Labels
+                    function resetAllNodes() {
+                        for (var nodeId in allNodes) {
+                            allNodes[nodeId].color = "rgba(200,200,200,0.5)";
+                            if (allNodes[nodeId].hiddenLabel !== undefined) {
+                                allNodes[nodeId].label = undefined; // Labels verbergen
+                            }
+                        }
+                    }
+
+                    // Funktion zur Rücksetzung des gesamten Graphen
+                    function resetGraph() {
+                        for (var nodeId in allNodes) {
+                            allNodes[nodeId].color = originalColors[nodeId]; // ursprüngliche Farbe wiederherstellen
+                            allNodes[nodeId].label = allNodes[nodeId].hiddenLabel; // Label wieder anzeigen
+                        }
+                        updateNodes();
+                    }
+
+                    // Highlight-Funktion für den ausgewählten Knoten und seine Nachbarn
+                    function neighbourhoodHighlight(params) {
+                        resetAllNodes(); // Setze alle Knoten zurück
+
+                        // Wenn ein Knoten ausgewählt wurde
+                        if (params.nodes.length > 0) {
+                            highlightActive = true;
+                            var selectedNode = params.nodes[0];
+
+                            // Wähle den geklickten Knoten und seine Nachbarn
+                            var connectedNodes = network.getConnectedNodes(selectedNode);
+                            var allConnectedNodes = connectedNodes.concat([selectedNode]);
+
+                            // Setze alle Knoten auf ausgegraut und hebe die Nachbarn hervor
+                            for (var nodeId in allNodes) {
+                                if (allConnectedNodes.includes(nodeId)) {
+                                    allNodes[nodeId].color = originalColors[nodeId]; // Setze die ursprüngliche Farbe
+                                    allNodes[nodeId].label = allNodes[nodeId].hiddenLabel; // Label wieder anzeigen
+                                } else {
+                                    allNodes[nodeId].color = "rgba(200,200,200,0.5)"; // Alle anderen ausgrauen
+                                    allNodes[nodeId].label = undefined; // Labels verbergen
+                                }
+                            }
+
+                            updateNodes();
+                        }
+                    }
+
+                    function updateNodes() {
+                        var updateArray = [];
+                        for (var nodeId in allNodes) {
+                            if (allNodes.hasOwnProperty(nodeId)) {
+                                updateArray.push(allNodes[nodeId]);
+                            }
+                        }
+                        nodesDataset.update(updateArray);
+                    }
+
+                    // Funktionen für die Liste
+                    function addNodeToList(nodeId) {
+                        var node = allNodes[nodeId];
+
+                    // Prüfen, ob der Knoten bereits in der Liste ist
+                        if (selectedNodes.includes(nodeId)) return;
+
+                        selectedNodes.push(nodeId);
+
+                        var listItem = document.createElement("div");
+                        listItem.className = "node-item";
+
+                    // Hintergrundfarbe überprüfen und setzen
+                        var nodeColor = node.color.background ? node.color.background : node.color;  // Falls `color.background` nicht existiert, fallback auf `color`
     
+                        listItem.style.backgroundColor = nodeColor; // Setze die Hintergrundfarbe des Listenelements
+
+                        listItem.innerHTML = `<span>${node.hiddenLabel}</span><span class="delete-btn">X</span>`;
+
+                        listItem.querySelector(".delete-btn").addEventListener("click", function () {
+                            removeNodeFromList(nodeId, listItem);
+                        });
+
+                        document.getElementById("selected-nodes").appendChild(listItem);
+                    }
+
+
+                    function removeNodeFromList(nodeId, listItem) {
+                        selectedNodes = selectedNodes.filter(id => id !== nodeId);
+                        listItem.remove();
+                    }
+
+                    function resetSelectedNodes() {
+                        selectedNodes = [];
+                        document.getElementById("selected-nodes").innerHTML = "<h3>Deine Ziele</h3>";
+                    }
+
+                    function downloadSelectedNodes() {
+                        var nodeData = selectedNodes.map(nodeId => {
+                            var node = allNodes[nodeId];
+                            return {
+                                ID: node.id,
+                                Label: node.hiddenLabel,
+                                Color: node.color.background,
+                            };
+                        });
+
+                        var ws = XLSX.utils.json_to_sheet(nodeData);
+                        var wb = XLSX.utils.book_new();
+                        XLSX.utils.book_append_sheet(wb, ws, "Selected Nodes");
+                        XLSX.writeFile(wb, "selected_nodes.xlsx");
+                    }
+
+                    // Initialisiere das Netzwerk
+                    redrawAll();
+                </script>
+            </div>
+        </div>
     </div>
-    
-    <div class="footer"> 
-      <div class="link-container"> 
-        <a class="share-button" id="shareButton1" href="https://used.community" target="_blank"><img src="pictures/used-logo-rgb-buttom.png" alt="Bild 1"></a>
-        <a class="share-button" id="shareButton3" href="imp.html" target="_blank">Imprint</a>
-        <a class="share-button" id="shareButton4" href="privacy.html" target="_blank">privacy</a>
-        <a class="share-button" onclick="openEmail()">contact</a>        
-      </div>
-        
-      <div class="imp-container">
-        <p class="impress">© used.community</p> 
-      </div>
+
+    <div class="footer">
+        <div class="link-container">
+            <a class="share-button" id="shareButton1" href="https://used.community" target="_blank"><img src="pictures/used-logo-rgb-buttom.png" alt="Bild 1"></a>
+            <a class="share-button" id="shareButton3" href="imp.html" target="_blank">Imprint</a>
+            <a class="share-button" id="shareButton4" href="privacy.html" target="_blank">privacy</a>
+            <a class="share-button" onclick="openEmail()">contact</a>
+        </div>
+
+        <div class="imp-container">
+            <p class="impress">© used.community</p>
+        </div>
     </div>
-  </div>
 </body>
+
 </html>
