@@ -208,3 +208,73 @@ width: 100%;
   padding: 10px 20px;
   border-radius: 5px;
 }
+
+
+#mynetwork {
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 1600px;
+  height: 800px;
+  float: left;
+}
+
+#selected-nodes {
+  margin-left: 30px;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  width: 200px;
+  height: 400px;
+  float: left;
+  overflow-y: auto;
+}
+
+.node-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  margin: 5px 0;
+  background-color: #e0e0e0;
+  border-radius: 3px;
+  color: white;
+  position: relative;
+}
+
+.node-item .delete-btn {
+  display: none;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.node-item:hover .delete-btn {
+  display: inline;
+}
+
+.download-button, .reset-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007BFF;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.download-button:hover, .reset-button:hover {
+  background-color: #0056b3;
+}
+
+/* Ursprüngliches CSS für das Design */
+#search-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#search-input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+  margin-right: 10px;
+}
