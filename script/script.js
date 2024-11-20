@@ -120,7 +120,7 @@ function redrawAll() {
 
             // Menüeintrag "Weitere Informationen" erstellen
             contextMenu.innerHTML = `
-            <div class="context-menu-item" onclick="navigateTo('${node.from}')">
+            <div class="context-menu-item" onclick="navigateTo('${node.link}')">
                 Weitere Informationen
             </div>
             `;

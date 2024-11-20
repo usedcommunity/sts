@@ -10,7 +10,9 @@ var nodes = [
         "object": "Zielsystem",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
+        
     }
      ,
     {
@@ -24,7 +26,8 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
-        "from": "https://www.stockholmresilience.org/research/planetary-boundaries.html"
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
+        "from": "Stokholmresiliance Center"
       }
     ,
     {
@@ -38,6 +41,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -52,6 +56,7 @@ var nodes = [
         "object": "Unterzielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -66,6 +71,7 @@ var nodes = [
         "object": "Unterzielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -80,6 +86,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -94,6 +101,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -108,6 +116,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -122,6 +131,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -136,6 +146,7 @@ var nodes = [
         "object": "Unterzielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -150,6 +161,7 @@ var nodes = [
         "object": "Unterzielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -164,6 +176,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -178,6 +191,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -192,6 +206,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -206,6 +221,7 @@ var nodes = [
         "object": "Unterzielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
@@ -220,6 +236,7 @@ var nodes = [
         "object": "Unterzielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
+        "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
       }
     ,
