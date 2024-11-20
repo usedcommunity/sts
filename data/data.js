@@ -24,7 +24,7 @@ var nodes = [
         "object": "Zielgröße",
         "title": "null",
         "sustainability dimension": "Ökologisch",
-        "from": href="https://www.stockholmresilience.org/research/planetary-boundaries.html"
+        "from": "https://www.stockholmresilience.org/research/planetary-boundaries.html"
       }
     ,
     {

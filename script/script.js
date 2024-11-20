@@ -18,7 +18,14 @@ var selectedNodes = []; // Liste für doppelt geklickte Knoten
 var nodesDataset = new vis.DataSet(nodes);
 var edgesDataset = new vis.DataSet(edges);
 var highlightActive = false;
+var contextMenu = document.getElementById("context-menu");
 
+// Funktion für die Navigation
+function navigateTo(url) {
+    window.open(url, "_blank");
+}
+
+//initialisierung des Netzwerkes
 function redrawAll() {
     var container = document.getElementById("mynetwork");
     var options = {
@@ -98,7 +105,35 @@ function redrawAll() {
             addNodeToList(selectedNodeId);
         }
     });
+
+    // Event-Listener für Rechtsklick auf einen Knoten
+    network.on("oncontext", function (params) {
+        params.event.preventDefault();
+        const nodeId = network.getNodeAt(params.pointer.DOM);
+
+        if (nodeId) {
+            // Kontextmenü anzeigen
+            const node = nodesDataset.get(nodeId);
+            contextMenu.style.top = params.event.pageY + "px";
+            contextMenu.style.left = params.event.pageX + "px";
+            contextMenu.style.display = "block";
+
+            // Menüeintrag "Weitere Informationen" erstellen
+            contextMenu.innerHTML = `
+            <div class="context-menu-item" onclick="navigateTo('${node.from}')">
+                Weitere Informationen
+            </div>
+            `;
+        } else {
+            // Kontextmenü verstecken, wenn kein Knoten geklickt wird
+            contextMenu.style.display = "none";
+        }
+    });
+
+
 }
+
+
 
 // Suchfunktion
 function searchNode() {
@@ -123,6 +158,18 @@ function searchNode() {
 
     updateNodes();
 }
+
+// Context menü
+
+
+
+
+// Kontextmenü bei Klick außerhalb verstecken
+document.addEventListener("click", function () {
+    contextMenu.style.display = "none";
+});
+
+//Ende Context menü
 
 // Funktion zur Rücksetzung aller Knotenfarben und Labels
 function resetAllNodes() {
