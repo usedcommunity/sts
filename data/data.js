@@ -1062,7 +1062,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1077,7 +1077,7 @@ var nodes = [
         "unit": "kg PM2,5 -eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1092,7 +1092,7 @@ var nodes = [
         "unit": "kg NOx eq to air",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1107,7 +1107,7 @@ var nodes = [
         "unit": "kBq Co-60 to air eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1122,7 +1122,7 @@ var nodes = [
         "unit": "kg CFC-11 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1137,7 +1137,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq to urban air",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1152,7 +1152,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq to urban air",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1167,7 +1167,7 @@ var nodes = [
         "unit": "kg CO2 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1182,7 +1182,7 @@ var nodes = [
         "unit": "m3 wasser konsum",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1197,7 +1197,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1212,7 +1212,7 @@ var nodes = [
         "unit": "kg P to fresh water eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1227,7 +1227,7 @@ var nodes = [
         "unit": "kg NOx eq to air",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1242,7 +1242,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1257,7 +1257,7 @@ var nodes = [
         "unit": "kg SO2 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1272,7 +1272,7 @@ var nodes = [
         "unit": "m2 x yr annual corp land",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1287,7 +1287,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1302,7 +1302,7 @@ var nodes = [
         "unit": "kg N to Marine water eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1317,7 +1317,7 @@ var nodes = [
         "unit": "kg Cu eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1332,7 +1332,7 @@ var nodes = [
         "unit": "Kg Oil eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
-        "from": "ReCiPe"
+        "from": "M.A.J. Huijbregts et al."
       }
      ,
     {
@@ -1362,7 +1362,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1377,7 +1377,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1392,7 +1392,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1407,7 +1407,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1422,7 +1422,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1437,7 +1437,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1452,7 +1452,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1467,7 +1467,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1482,7 +1482,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1497,7 +1497,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1512,7 +1512,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1527,7 +1527,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1542,7 +1542,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
-        "from": "GD"
+        "from": "GreenDeLTa"
       }
      ,
     {
@@ -1572,7 +1572,7 @@ var nodes = [
         "unit": "Radiative forcing as global warming potential – GWP100 (kg CO2 eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1587,7 +1587,7 @@ var nodes = [
         "unit": "Ozone Depletion Potential – ODP (kg CFC-11 eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1602,7 +1602,7 @@ var nodes = [
         "unit": "Comparative Toxic Unit for humans (CTUh)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1617,7 +1617,7 @@ var nodes = [
         "unit": "Comparative Toxic Unit for humans (CTUh)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1632,7 +1632,7 @@ var nodes = [
         "unit": "Impact on human health (disease incidence)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1647,7 +1647,7 @@ var nodes = [
         "unit": "Human exposure efficiency relative to U-235 (kBq U-235 eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1662,7 +1662,7 @@ var nodes = [
         "unit": "Tropospheric ozone concentration increase (kg NMVOC eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1677,7 +1677,7 @@ var nodes = [
         "unit": "Accumulated Exceedance – AE (mol H+ eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1692,7 +1692,7 @@ var nodes = [
         "unit": "Accumulated Exceedance – AE (mol N eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1707,7 +1707,7 @@ var nodes = [
         "unit": "Fraction of nutrients reaching freshwater end compartment (kg P eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1722,7 +1722,7 @@ var nodes = [
         "unit": "Fraction of nutrients reaching marine end compartment (kg N eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1737,7 +1737,7 @@ var nodes = [
         "unit": "Comparative Toxic Unit for ecosystems (CTUe)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1752,7 +1752,7 @@ var nodes = [
         "unit": "Soil quality index, representing the aggregated impact of land use on: Biotic production; Erosion resistance; Mechanical filtration; Groundwater replenishment (Dimensionless – pt)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1767,7 +1767,7 @@ var nodes = [
         "unit": "Weighted user deprivation potential (m3 world eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1782,7 +1782,7 @@ var nodes = [
         "unit": "Abiotic resource depletion – ADP ultimate reserves (kg Sb eq)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
@@ -1797,13 +1797,13 @@ var nodes = [
         "unit": "Abiotic resource depletion, fossil fuels – ADP-fossil (MJ)",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
-        "from": "EC"
+        "from": "European Commission"
       }
      ,
     {
       "id": "8",
        
-        "label": "SETAC",
+        "label": "Unip SETAC Methodological Sheets",
         "x": -1068.1672,
         "y": -1324.0599,
         "value": 30,
@@ -2725,7 +2725,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2740,7 +2740,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2755,7 +2755,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2770,7 +2770,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2785,7 +2785,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2800,7 +2800,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2815,7 +2815,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2830,7 +2830,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2845,7 +2845,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2860,7 +2860,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2875,7 +2875,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2890,7 +2890,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2905,7 +2905,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2920,7 +2920,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2935,7 +2935,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2950,7 +2950,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2965,7 +2965,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2980,7 +2980,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -2995,7 +2995,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3010,7 +3010,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3025,7 +3025,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3040,7 +3040,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3055,7 +3055,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3070,7 +3070,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3085,7 +3085,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3100,7 +3100,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3115,7 +3115,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3130,7 +3130,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3145,7 +3145,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3160,7 +3160,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -3175,7 +3175,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
