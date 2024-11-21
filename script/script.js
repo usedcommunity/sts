@@ -76,9 +76,9 @@ function redrawAll() {
         node.hiddenLabel = node.label;  // Speichere das ursprüngliche Label
         node.title = `Label: ${node.label}
           Object: ${node.object}
-          Einheit: ${node.title}
-          Sustainability Dimension: ${node.sustainabilityDimension}
-          Quelle: ${node.from}`;
+          Unit: ${node.unit}
+          Sustainability Dimension: ${node.sustainabilitydimension}
+          Source: ${node.from}`;
     }
 
     var data = { nodes: nodesDataset, edges: edgesDataset };
@@ -159,17 +159,10 @@ function searchNode() {
     updateNodes();
 }
 
-// Context menü
-
-
-
-
 // Kontextmenü bei Klick außerhalb verstecken
 document.addEventListener("click", function () {
     contextMenu.style.display = "none";
 });
-
-//Ende Context menü
 
 // Funktion zur Rücksetzung aller Knotenfarben und Labels
 function resetAllNodes() {
