@@ -3759,7 +3759,7 @@ var nodes = [
         "object": "Zielsystem",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3774,6 +3774,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3788,6 +3789,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3802,6 +3804,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3816,6 +3819,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3830,6 +3834,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3844,6 +3849,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3858,6 +3864,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3872,6 +3879,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3886,6 +3894,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3900,6 +3909,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3914,6 +3924,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3928,6 +3939,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "null",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
       }
      ,
@@ -3942,6 +3954,7 @@ var nodes = [
         "object": "Modell",
         "unit": "null",
         "sustainabilitydimension": "null",
+        "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
      ,
@@ -3956,6 +3969,7 @@ var nodes = [
         "object": "Zielgrößen",
         "unit": "null",
         "sustainabilitydimension": "null",
+        "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
      ,
@@ -3970,6 +3984,7 @@ var nodes = [
         "object": "Zielgrößen",
         "unit": "null",
         "sustainabilitydimension": "null",
+        "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
      ,
@@ -3984,6 +3999,7 @@ var nodes = [
         "object": "Zielgrößen",
         "unit": "null",
         "sustainabilitydimension": "null",
+        "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
      ,
@@ -3998,6 +4014,7 @@ var nodes = [
         "object": "Zielsystem",
         "unit": "null",
         "sustainabilitydimension": "Alle",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "CML, DM, Erlenspiel, PG, ReCiPe, Menschenrechte, SDGs, SETAC, Störmer, GD"
       }
      ,
@@ -4012,6 +4029,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kBq Co-60 to air eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, GD, EC"
       }
      ,
@@ -4026,6 +4044,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg NOx eq to air",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, DM, PG, GD, EC"
       }
      ,
@@ -4040,6 +4059,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg PM2,5 -eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, DM, PG, Störmer, GD, EC"
       }
      ,
@@ -4054,6 +4074,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg NOx eq to air",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, Störmer, GD, EC"
       }
      ,
@@ -4068,6 +4089,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "m3 wasser konsum",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, DM, PG, EC"
       }
      ,
@@ -4082,6 +4104,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg 1,4-DB eq to urban air",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, DM, PG, GD, EC"
       }
      ,
@@ -4096,6 +4119,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "EC, ReCiPe, CML, PG, DM, GD"
       }
      ,
@@ -4110,6 +4134,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg CO2 eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, DM, PG, SDG, GD, EC"
       }
      ,
@@ -4124,6 +4149,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg CO2 eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "PG, DM"
       }
      ,
@@ -4138,6 +4164,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg N to Marine water eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, GD, EC"
       }
      ,
@@ -4152,6 +4179,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg P to fresh water eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, DM, PG, SDG, GD, EC"
       }
      ,
@@ -4166,6 +4194,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Accumulated Exceedance – AE (mol N eq)",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "EC"
       }
      ,
@@ -4180,6 +4209,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "m2 x yr annual corp land",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, DM, PG, GD, EC"
       }
      ,
@@ -4194,6 +4224,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg SO2 eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, GD, EC"
       }
      ,
@@ -4208,6 +4239,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "? (ReCiPe/PG)",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "PG, DM, SDG, Störmer"
       }
      ,
@@ -4222,6 +4254,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg Cu eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, Störmer, GD, EC"
       }
      ,
@@ -4236,6 +4269,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Kg Oil eq",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "ReCiPe, CML, Störmer, GD, EC"
       }
      ,
@@ -4250,6 +4284,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "MJ",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "GD"
       }
      ,
@@ -4264,6 +4299,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "OU/m³",
         "sustainabilitydimension": "Ökologisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "GD"
       }
      ,
@@ -4278,6 +4314,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, SETAC"
       }
      ,
@@ -4292,6 +4329,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
       }
      ,
@@ -4306,6 +4344,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer"
       }
      ,
@@ -4320,6 +4359,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, SETAC, Störmer, PSILCA"
       }
      ,
@@ -4334,6 +4374,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, Störmer"
       }
      ,
@@ -4348,6 +4389,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, PSILCA"
       }
      ,
@@ -4362,6 +4404,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Menschenrechte, SETAC, Störmer"
       }
      ,
@@ -4376,6 +4419,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, Störmer, PSILCA"
       }
      ,
@@ -4390,6 +4434,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "km/Person/Tag",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SDG, SETAC, Störmer"
       }
      ,
@@ -4404,6 +4449,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, PSILCA"
       }
      ,
@@ -4418,6 +4464,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte"
       }
      ,
@@ -4432,6 +4479,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "m3/Person",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
       }
      ,
@@ -4446,6 +4494,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Vernetzungsgrad (Index)",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
       }
      ,
@@ -4460,6 +4509,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kWh/Person",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer"
       }
      ,
@@ -4474,6 +4524,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "m3/Person",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer"
       }
      ,
@@ -4488,6 +4539,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
       }
      ,
@@ -4502,6 +4554,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Menschenrechte, SETAC"
       }
      ,
@@ -4516,6 +4569,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, Störmer, PSILCA"
       }
      ,
@@ -4530,6 +4584,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
       }
      ,
@@ -4544,6 +4599,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
       }
      ,
@@ -4558,6 +4614,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Index",
         "sustainabilitydimension": "Sozial",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
       }
      ,
@@ -4571,7 +4628,8 @@ var nodes = [
         "color": "#c5d9ff",
         "object": "null",
         "unit": "null",
-        "sustainabilitydimension": "null",
+        "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "null"
       }
      ,
@@ -4586,6 +4644,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "%",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Kano"
       }
      ,
@@ -4600,6 +4659,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "%",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Kano"
       }
      ,
@@ -4614,6 +4674,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "%",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Kano"
       }
      ,
@@ -4628,6 +4689,7 @@ var nodes = [
         "object": "null",
         "unit": "null",
         "sustainabilitydimension": "null",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "null"
       }
      ,
@@ -4642,6 +4704,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Nach PLZ VDI2221"
       }
      ,
@@ -4656,6 +4719,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Nach PLZ VDI2221"
       }
      ,
@@ -4670,6 +4734,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Ergenzt"
       }
      ,
@@ -4684,6 +4749,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Nach PLZ VDI2221"
       }
      ,
@@ -4698,6 +4764,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Ergenzt"
       }
      ,
@@ -4712,6 +4779,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Nach PLZ VDI2221"
       }
      ,
@@ -4726,6 +4794,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Nach PLZ VDI2221"
       }
      ,
@@ -4740,6 +4809,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Ergenzt"
       }
      ,
@@ -4754,6 +4824,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
+        "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Ergenzt"
       }
      ,
