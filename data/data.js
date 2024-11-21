@@ -1938,7 +1938,7 @@ var nodes = [
     {
       "id": "8.8",
        
-        "label": "Sichere und gesunde Lebensbedingungen",
+        "label": "Gesunde Lebensbedingungen",
         "x": -1170.5048,
         "y": -1277.5332,
         "value": 12.0,
@@ -1953,7 +1953,7 @@ var nodes = [
     {
       "id": "8.9",
        
-        "label": "Secure Living Conditions",
+        "label": "Sichere Lebensbedingungen",
         "x": -1123.1438,
         "y": -1318.5795,
         "value": 12.0,
@@ -3190,7 +3190,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3205,7 +3205,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3220,7 +3220,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3235,7 +3235,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3250,7 +3250,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3265,7 +3265,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3280,7 +3280,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3295,7 +3295,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3310,7 +3310,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3325,7 +3325,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3340,7 +3340,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3355,7 +3355,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3370,7 +3370,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3385,7 +3385,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3400,7 +3400,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3415,7 +3415,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3430,7 +3430,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3445,7 +3445,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3460,7 +3460,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
-        "from": "Störmer"
+        "from": "Eckhardt Störmer"
       }
      ,
     {
@@ -3475,7 +3475,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
-        "from": "M4E"
+        "from": "Stabilitäts­gesetz"
       }
      ,
     {
@@ -3490,7 +3490,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
-        "from": "M4E"
+        "from": "Stabilitäts­gesetz"
       }
      ,
     {
@@ -3505,7 +3505,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
-        "from": "M4E"
+        "from": "Stabilitäts­gesetz"
       }
      ,
     {
@@ -3520,7 +3520,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
-        "from": "M4E"
+        "from": "Stabilitäts­gesetz"
       }
      ,
     {
@@ -3535,7 +3535,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
-        "from": "M4E"
+        "from": "Stabilitäts­gesetz"
       }
      ,
     {
@@ -3550,7 +3550,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
-        "from": "?"
+        "from": "(Projektmanagement)"
       }
      ,
     {
@@ -3565,7 +3565,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
-        "from": "M3E"
+        "from": "(Projektmanagement)"
       }
      ,
     {
@@ -3580,7 +3580,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
-        "from": "M3E"
+        "from": "(Projektmanagement)"
       }
      ,
     {
@@ -3595,7 +3595,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
-        "from": "M3E"
+        "from": "(Projektmanagement)"
       }
      ,
     {
@@ -3610,7 +3610,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3625,7 +3625,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3640,7 +3640,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3655,7 +3655,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3670,7 +3670,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3685,7 +3685,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3700,7 +3700,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3715,7 +3715,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3730,7 +3730,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3745,7 +3745,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
-        "from": "Ehrlenspiel"
+        "from": "Klaus Ehrlenspiel et al."
       }
      ,
     {
@@ -3955,7 +3955,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
-        "from": "Kano"
+        "from": "Noriaki Kano"
       }
      ,
     {
@@ -3970,7 +3970,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
-        "from": "Kano"
+        "from": "Noriaki Kano"
       }
      ,
     {
@@ -3985,7 +3985,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
-        "from": "Kano"
+        "from": "Noriaki Kano"
       }
      ,
     {
@@ -4000,7 +4000,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
-        "from": "Kano"
+        "from": "Noriaki Kano"
       }
      ,
     {
@@ -4237,7 +4237,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "? (ReCiPe/PG)",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "PG, DM, SDG, Störmer"
@@ -4312,7 +4312,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, SETAC"
@@ -4327,7 +4327,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
@@ -4342,7 +4342,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer"
@@ -4357,7 +4357,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, SETAC, Störmer, PSILCA"
@@ -4372,7 +4372,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, Störmer"
@@ -4387,7 +4387,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, PSILCA"
@@ -4402,7 +4402,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Menschenrechte, SETAC, Störmer"
@@ -4417,7 +4417,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, Störmer, PSILCA"
@@ -4447,7 +4447,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, PSILCA"
@@ -4462,7 +4462,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte"
@@ -4492,7 +4492,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Vernetzungsgrad (Index)",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
@@ -4537,7 +4537,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
@@ -4552,7 +4552,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Menschenrechte, SETAC"
@@ -4567,7 +4567,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, Störmer, PSILCA"
@@ -4582,7 +4582,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
@@ -4597,7 +4597,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
@@ -4612,7 +4612,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Index",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "SETAC, PSILCA"
@@ -4626,8 +4626,8 @@ var nodes = [
         "y": -1429.3888,
         "value": 12.0,
         "color": "#c5d9ff",
-        "object": "keine Angabe",
-        "unit": "keine Angabe",
+        "object": "Zielkategorie",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "keine Angabe"
@@ -4642,7 +4642,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "%",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Kano"
@@ -4657,7 +4657,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "%",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Kano"
@@ -4672,7 +4672,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "%",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Kano"
@@ -4686,8 +4686,8 @@ var nodes = [
         "y": -1439.6521,
         "value": 12.0,
         "color": "#c5d9ff",
-        "object": "keine Angabe",
-        "unit": "keine Angabe",
+        "object": "Zielkategorie",
+        "unit": "Ausstehend",
         "sustainabilitydimension": "keine Angabe",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "keine Angabe"
