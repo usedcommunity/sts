@@ -8,7 +8,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -18,13 +18,13 @@ var nodes = [
     {
       "id": "1.1",
        
-        "label": "Climate Change",
+        "label": "Climate change",
         "x": 355.2926,
         "y": -1295.5125,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -39,7 +39,7 @@ var nodes = [
         "value": 12.0,
         "color": "#b5ffba",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -48,13 +48,13 @@ var nodes = [
     {
       "id": "1.2.1",
        
-        "label": "green water",
+        "label": "Green water",
         "x": 388.77322,
         "y": -1316.5088,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -63,13 +63,13 @@ var nodes = [
     {
       "id": "1.2.2",
        
-        "label": "freshwater use (blue water)",
+        "label": "Freshwater use (blue water)",
         "x": 391.49957,
         "y": -1359.8475,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -78,13 +78,13 @@ var nodes = [
     {
       "id": "1.3",
        
-        "label": "stratospheric ozone depletion",
+        "label": "Stratospheric ozone depletion",
         "x": 252.13287,
         "y": -1366.7563,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -93,13 +93,13 @@ var nodes = [
     {
       "id": "1.4",
        
-        "label": "Atmospheric aerosol Loading",
+        "label": "Atmospheric aerosol loading",
         "x": 221.39423,
         "y": -1339.1692,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -108,13 +108,13 @@ var nodes = [
     {
       "id": "1.5",
        
-        "label": "Ocean Acidification",
+        "label": "Ocean acidification",
         "x": 349.9242,
         "y": -1373.6296,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -129,7 +129,7 @@ var nodes = [
         "value": 12.0,
         "color": "#b5ffba",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -144,7 +144,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -159,7 +159,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -174,7 +174,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -183,13 +183,13 @@ var nodes = [
     {
       "id": "1.8",
        
-        "label": "Land-System Change",
+        "label": "Land-System change",
         "x": 333.68225,
         "y": -1264.5656,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -204,7 +204,7 @@ var nodes = [
         "value": 12.0,
         "color": "#b5ffba",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -219,7 +219,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -234,7 +234,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
         "from": "Stokholmresiliance Center"
@@ -249,7 +249,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch und Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -258,13 +258,13 @@ var nodes = [
     {
       "id": "2.1",
        
-        "label": "Climate Change",
+        "label": "Climate change",
         "x": -484.91776,
         "y": -1092.4803,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -273,13 +273,13 @@ var nodes = [
     {
       "id": "2.2",
        
-        "label": "Freshwater Use",
+        "label": "Freshwater use",
         "x": -512.32855,
         "y": -1062.0282,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -288,13 +288,13 @@ var nodes = [
     {
       "id": "2.3",
        
-        "label": "nitrogen and phosphorus cycles",
+        "label": "Nitrogen and phosphorus cycles",
         "x": -462.37292,
         "y": -1163.4504,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -303,13 +303,13 @@ var nodes = [
     {
       "id": "2.4",
        
-        "label": "ocean acidification",
+        "label": "Ocean acidification",
         "x": -436.26343,
         "y": -1115.7026,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -318,13 +318,13 @@ var nodes = [
     {
       "id": "2.5",
        
-        "label": "chemical polution",
+        "label": "Chemical polution",
         "x": -466.85513,
         "y": -1128.2957,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -333,13 +333,13 @@ var nodes = [
     {
       "id": "2.6",
        
-        "label": "atmospheric aerosol loading",
+        "label": "Atmospheric aerosol loading",
         "x": -483.4085,
         "y": -1187.3574,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -348,13 +348,13 @@ var nodes = [
     {
       "id": "2.7",
        
-        "label": "ozone depletion",
+        "label": "Ozone depletion",
         "x": -431.35956,
         "y": -1149.8212,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -363,13 +363,13 @@ var nodes = [
     {
       "id": "2.8",
        
-        "label": "biodiversity loss",
+        "label": "Biodiversity loss",
         "x": -445.9531,
         "y": -1083.7994,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -378,13 +378,13 @@ var nodes = [
     {
       "id": "2.9",
        
-        "label": "land unse change",
+        "label": "Land use change",
         "x": -472.87442,
         "y": -1063.643,
         "value": 12.0,
         "color": "#08ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -393,13 +393,13 @@ var nodes = [
     {
       "id": "2.10",
        
-        "label": "food",
+        "label": "Food",
         "x": -540.7558,
         "y": -1067.4364,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -408,13 +408,13 @@ var nodes = [
     {
       "id": "2.11",
        
-        "label": "health",
+        "label": "Health",
         "x": -586.60565,
         "y": -1142.8652,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -423,13 +423,13 @@ var nodes = [
     {
       "id": "2.12",
        
-        "label": "education",
+        "label": "Education",
         "x": -516.914,
         "y": -1203.4863,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -438,13 +438,13 @@ var nodes = [
     {
       "id": "2.13",
        
-        "label": "incom and work",
+        "label": "Incom and work",
         "x": -552.68024,
         "y": -1157.217,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -453,13 +453,13 @@ var nodes = [
     {
       "id": "2.14",
        
-        "label": "peace and justice",
+        "label": "Peace and justice",
         "x": -529.0416,
         "y": -1170.8279,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -468,13 +468,13 @@ var nodes = [
     {
       "id": "2.15",
        
-        "label": "political voice",
+        "label": "Political voice",
         "x": -575.4577,
         "y": -1103.8074,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -483,13 +483,13 @@ var nodes = [
     {
       "id": "2.16",
        
-        "label": "sozial equality",
+        "label": "Sozial equality",
         "x": -558.3381,
         "y": -1192.2615,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -498,13 +498,13 @@ var nodes = [
     {
       "id": "2.17",
        
-        "label": "gender equality",
+        "label": "Gender equality",
         "x": -579.4326,
         "y": -1075.7834,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -513,13 +513,13 @@ var nodes = [
     {
       "id": "2.18",
        
-        "label": "housing",
+        "label": "Housing",
         "x": -602.1541,
         "y": -1118.5026,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -528,13 +528,13 @@ var nodes = [
     {
       "id": "2.19",
        
-        "label": "networks",
+        "label": "Networks",
         "x": -587.5888,
         "y": -1174.4713,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -543,13 +543,13 @@ var nodes = [
     {
       "id": "2.20",
        
-        "label": "energy",
+        "label": "Energy",
         "x": -557.0983,
         "y": -1129.5222,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -558,13 +558,13 @@ var nodes = [
     {
       "id": "2.21",
        
-        "label": "water",
+        "label": "Water",
         "x": -539.51074,
         "y": -1094.7213,
         "value": 12.0,
         "color": "#ff0200",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www-cdn.oxfam.org/s3fs-public/file_attachments/dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf",
         "from": "Kate Raworth"
@@ -579,130 +579,130 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
     }
      ,
     {
       "id": "3.1",
        
-        "label": "no poverty",
+        "label": "No poverty",
         "x": -757.46436,
         "y": -1140.5366,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
     }
      ,
     {
       "id": "3.2",
        
-        "label": "zero hunger",
+        "label": "Zero hunger",
         "x": -765.4502,
         "y": -1106.48,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.3",
        
-        "label": "good health an well being",
+        "label": "Good health an well being",
         "x": -758.56946,
         "y": -1178.1061,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.4",
        
-        "label": "quality education",
+        "label": "Quality education",
         "x": -822.6753,
         "y": -1066.805,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.5",
        
-        "label": "gender equality",
+        "label": "Gender equality",
         "x": -793.39856,
         "y": -1080.6172,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.6",
        
-        "label": "cleanwater and sanitation",
+        "label": "Cleanwater and sanitation",
         "x": -823.171,
         "y": -1163.7925,
         "value": 12.0,
         "color": "#faff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch, Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.7",
        
-        "label": "affordable and clean energy",
+        "label": "Affordable and clean energy",
         "x": -881.1846,
         "y": -1153.8488,
         "value": 12.0,
         "color": "#faff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.8",
        
-        "label": "decent work and economic growth",
+        "label": "Decent work and economic growth",
         "x": -855.73157,
         "y": -1181.0505,
         "value": 12.0,
         "color": "#faff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch, Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -714,130 +714,130 @@ var nodes = [
         "value": 12.0,
         "color": "#faff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch, Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.10",
        
-        "label": "reduced inequalities",
+        "label": "Reduced inequalities",
         "x": -787.6841,
         "y": -1154.2568,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.11",
        
-        "label": "sustainable cities and communities",
+        "label": "Sustainable cities and communities",
         "x": -821.7217,
         "y": -1204.9459,
         "value": 12.0,
         "color": "#faff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.12",
        
-        "label": "responsible consumption and production",
+        "label": "Responsible consumption and production",
         "x": -841.39777,
         "y": -1135.7574,
         "value": 12.0,
         "color": "#faff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.13",
        
-        "label": "climate action",
+        "label": "Climate action",
         "x": -873.9099,
         "y": -1122.2986,
         "value": 12.0,
         "color": "#00ff05",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.14",
        
-        "label": "life below water",
+        "label": "Life below water",
         "x": -852.0825,
         "y": -1100.7695,
         "value": 12.0,
         "color": "#00ff05",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.15",
        
-        "label": "life on land",
+        "label": "Life on land",
         "x": -855.6045,
         "y": -1074.5361,
         "value": 12.0,
         "color": "#00ff05",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.16",
        
-        "label": "peace justice and strong instititions",
+        "label": "Peace justice and strong instititions",
         "x": -760.76807,
         "y": -1076.6482,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
       "id": "3.17",
        
-        "label": "partnership for the goals",
+        "label": "Partnership for the goals",
         "x": -797.166,
         "y": -1181.4933,
         "value": 12.0,
         "color": "#faff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://www.globalgoals.org/",
-        "from": "UN"
+        "from": "United Nations"
       }
      ,
     {
@@ -849,10 +849,10 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Bewertungssystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
@@ -867,13 +867,13 @@ var nodes = [
         "unit": "kg SO2 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.2",
        
-        "label": "Climate Change",
+        "label": "Climate change",
         "x": 191.19034,
         "y": -1667.3394,
         "value": 12.0,
@@ -882,7 +882,7 @@ var nodes = [
         "unit": "kg CO2 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
@@ -897,7 +897,7 @@ var nodes = [
         "unit": "k.a",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
@@ -912,13 +912,13 @@ var nodes = [
         "unit": "kg Sb eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.3.2",
        
-        "label": "Depletion of Abiotic resources- Fossil Fuels",
+        "label": "Depletion of Abiotic resources- fossil fuels",
         "x": 258.09412,
         "y": -1728.3907,
         "value": 12.0,
@@ -927,7 +927,7 @@ var nodes = [
         "unit": "MJ",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
@@ -942,13 +942,13 @@ var nodes = [
         "unit": "k.a",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.4.1",
        
-        "label": "Freshwater Aquatic Ecotoxicity",
+        "label": "Freshwater aquatic ecotoxicity",
         "x": 108.538574,
         "y": -1768.8278,
         "value": 12.0,
@@ -957,13 +957,13 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.4.2",
        
-        "label": "Marine Aquatic Ecotoxicity",
+        "label": "Marine aquatic ecotoxicity",
         "x": 97.11572,
         "y": -1739.185,
         "value": 12.0,
@@ -972,13 +972,13 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.4.3",
        
-        "label": "Terrestrial Ecotoxicity",
+        "label": "Terrestrial ecotoxicity",
         "x": 160.47287,
         "y": -1774.9938,
         "value": 12.0,
@@ -987,7 +987,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
@@ -1002,13 +1002,13 @@ var nodes = [
         "unit": "kg PO4 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.6",
        
-        "label": "Human Toxicity",
+        "label": "Human toxicity",
         "x": 219.51614,
         "y": -1751.2781,
         "value": 12.0,
@@ -1017,13 +1017,13 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.7",
        
-        "label": "Ozone Layer Depletion",
+        "label": "Ozone layer depletion",
         "x": 127.02875,
         "y": -1697.9156,
         "value": 12.0,
@@ -1032,13 +1032,13 @@ var nodes = [
         "unit": "kg CFC-11 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
       "id": "4.8",
        
-        "label": "Potochemical Oxidation",
+        "label": "Potochemical oxidation",
         "x": 147.90524,
         "y": -1673.0001,
         "value": 12.0,
@@ -1047,7 +1047,7 @@ var nodes = [
         "unit": "kg C2H4 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.universiteitleiden.nl/en/research/research-output/science/cml-ia-characterisation-factors",
-        "from": "CML"
+        "from": "CML - Department of Industrial Ecology"
       }
      ,
     {
@@ -1059,7 +1059,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Bewertungssystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.rivm.nl/bibliotheek/rapporten/2016-0104.pdf",
         "from": "ReCiPe"
@@ -1083,7 +1083,7 @@ var nodes = [
     {
       "id": "5.2",
        
-        "label": "Trop. Ozon formation (human)",
+        "label": "Trop. ozon formation (human)",
         "x": 33.059227,
         "y": -1155.734,
         "value": 12.0,
@@ -1113,7 +1113,7 @@ var nodes = [
     {
       "id": "5.4",
        
-        "label": "Stratos. Ozone depletion",
+        "label": "Stratos. ozone depletion",
         "x": 106.377014,
         "y": -1130.1543,
         "value": 12.0,
@@ -1344,7 +1344,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Bewertungssystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GreenDeLTa"
@@ -1359,7 +1359,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1368,13 +1368,13 @@ var nodes = [
     {
       "id": "6.2",
        
-        "label": "Climate Change",
+        "label": "Climate change",
         "x": 218.67026,
         "y": -1539.8291,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1383,13 +1383,13 @@ var nodes = [
     {
       "id": "6.3",
        
-        "label": "resource depletion",
+        "label": "Resource depletion",
         "x": 220.6373,
         "y": -1508.392,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1404,7 +1404,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1413,13 +1413,13 @@ var nodes = [
     {
       "id": "6.5",
        
-        "label": "Energy Use",
+        "label": "Energy use",
         "x": 194.11035,
         "y": -1482.182,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1434,7 +1434,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1449,7 +1449,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1458,13 +1458,13 @@ var nodes = [
     {
       "id": "6.8",
        
-        "label": "Ionising Radiation",
+        "label": "Ionising radiation",
         "x": 199.7045,
         "y": -1568.6298,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1473,13 +1473,13 @@ var nodes = [
     {
       "id": "6.9",
        
-        "label": "Land Use",
+        "label": "Land use",
         "x": 121.68353,
         "y": -1592.9635,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1494,7 +1494,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1503,13 +1503,13 @@ var nodes = [
     {
       "id": "6.11",
        
-        "label": "Ozone Layer Depletion",
+        "label": "Ozone layer depletion",
         "x": 97.09279,
         "y": -1569.0299,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1518,13 +1518,13 @@ var nodes = [
     {
       "id": "6.12",
        
-        "label": "Particulate matter/ Respiratory inorganics",
+        "label": "Particulate matter/ respiratory inorganics",
         "x": 183.42484,
         "y": -1518.4567,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1539,7 +1539,7 @@ var nodes = [
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
         "from": "GD"
@@ -1554,7 +1554,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Bewertungssystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ölologisch",
         "link": "https://publications.jrc.ec.europa.eu/repository/handle/JRC129907",
         "from": "European Commission"
@@ -1809,7 +1809,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Bewertungssystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1818,13 +1818,13 @@ var nodes = [
     {
       "id": "8.0.1",
        
-        "label": "local community",
+        "label": "Local community",
         "x": -1133.5747,
         "y": -1286.4989,
         "value": 12.0,
         "color": "#ff98a1",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1839,7 +1839,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1854,7 +1854,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1863,13 +1863,13 @@ var nodes = [
     {
       "id": "8.3",
        
-        "label": "Schützen des Kulturellen Erbes",
+        "label": "Schützen des kulturellen Erbes",
         "x": -1165.1465,
         "y": -1234.3485,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1884,7 +1884,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1899,7 +1899,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1908,13 +1908,13 @@ var nodes = [
     {
       "id": "8.6",
        
-        "label": "Access to Immaterial resources",
+        "label": "Zugang zu immateriellen Ressourcen",
         "x": -1173.8389,
         "y": -1304.9703,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1923,13 +1923,13 @@ var nodes = [
     {
       "id": "8.7",
        
-        "label": "Access to Material resources",
+        "label": "Zugriff auf materielle Ressourcen",
         "x": -1158.3813,
         "y": -1324.8389,
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1944,7 +1944,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1959,7 +1959,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1974,7 +1974,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff98a1",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -1989,7 +1989,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2004,7 +2004,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2019,7 +2019,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2034,7 +2034,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2049,7 +2049,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff98a1",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2064,7 +2064,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2079,7 +2079,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2094,7 +2094,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2109,7 +2109,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2124,7 +2124,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2139,7 +2139,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff98a1",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2154,7 +2154,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2169,7 +2169,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2184,7 +2184,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2199,7 +2199,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2214,7 +2214,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2229,7 +2229,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2244,7 +2244,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2259,7 +2259,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2274,7 +2274,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff98a1",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2289,7 +2289,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2304,7 +2304,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2319,7 +2319,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2334,7 +2334,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2349,7 +2349,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000f",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.lifecycleinitiative.org/wp-content/uploads/2013/11/S-LCA_methodological_sheets_11.11.13.pdf",
         "from": "Unip SETAC"
@@ -2363,7 +2363,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Bewertungssystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2377,7 +2377,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff97a6",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2391,8 +2391,8 @@ var nodes = [
         "y": -1731.3064,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2401,13 +2401,13 @@ var nodes = [
     {
       "id": "9.2",
        
-        "label": "Forced Labour",
+        "label": "Forced labour",
         "x": -726.5988,
         "y": -1825.1605,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2416,13 +2416,13 @@ var nodes = [
     {
       "id": "9.3",
        
-        "label": "Fair Salary",
+        "label": "Fair salary",
         "x": -664.0236,
         "y": -1804.7911,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2436,8 +2436,8 @@ var nodes = [
         "y": -1726.156,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2451,8 +2451,8 @@ var nodes = [
         "y": -1776.48,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2461,13 +2461,13 @@ var nodes = [
     {
       "id": "9.6",
        
-        "label": "Health and Safety (Workers)",
+        "label": "Health and safety (Workers)",
         "x": -694.56946,
         "y": -1823.9912,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2481,8 +2481,8 @@ var nodes = [
         "y": -1748.74,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2496,8 +2496,8 @@ var nodes = [
         "y": -1797.0005,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2506,13 +2506,13 @@ var nodes = [
     {
       "id": "9.0.2",
        
-        "label": "Local Communities",
+        "label": "Local communities",
         "x": -821.9229,
         "y": -1785.2383,
         "value": 12.0,
         "color": "#ff97a6",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2526,8 +2526,8 @@ var nodes = [
         "y": -1823.7378,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2536,13 +2536,13 @@ var nodes = [
     {
       "id": "9.10",
        
-        "label": "GHG Footprints and Environmental Footprints",
+        "label": "GHG footprints and environmental footprints",
         "x": -848.93243,
         "y": -1813.0149,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2556,8 +2556,8 @@ var nodes = [
         "y": -1764.2836,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2571,8 +2571,8 @@ var nodes = [
         "y": -1790.3774,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2586,8 +2586,8 @@ var nodes = [
         "y": -1790.3334,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2601,8 +2601,8 @@ var nodes = [
         "y": -1756.4379,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2617,7 +2617,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff97a6",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2631,8 +2631,8 @@ var nodes = [
         "y": -1689.448,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2641,13 +2641,13 @@ var nodes = [
     {
       "id": "9.16",
        
-        "label": "Health and Safety (Society)",
+        "label": "Health and safety (Society)",
         "x": -854.30963,
         "y": -1721.4705,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2656,13 +2656,13 @@ var nodes = [
     {
       "id": "9.0.4",
        
-        "label": "Value Chain actors",
+        "label": "Value chain actors",
         "x": -764.4207,
         "y": -1708.9241,
         "value": 12.0,
         "color": "#ff97a6",
         "object": "Stakeholdergruppe",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2676,8 +2676,8 @@ var nodes = [
         "y": -1700.5396,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2691,8 +2691,8 @@ var nodes = [
         "y": -1683.6365,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2706,8 +2706,8 @@ var nodes = [
         "y": -1675.9437,
         "value": 12.0,
         "color": "#ff0010",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.researchgate.net/publication/370757136_PSILCA_v31_Database_documentation",
         "from": "PSILCA"
@@ -2722,7 +2722,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Grundrechte",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2731,13 +2731,13 @@ var nodes = [
     {
       "id": "10.1",
        
-        "label": "Freiheit, gleichheit, Solidarität",
+        "label": "Freiheit, Gleichheit, Solidarität",
         "x": -796.802,
         "y": -1405.0813,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2746,13 +2746,13 @@ var nodes = [
     {
       "id": "10.2",
        
-        "label": "verbot der diskreminierung",
+        "label": "verbot der Diskreminierung",
         "x": -756.49536,
         "y": -1451.5131,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2761,13 +2761,13 @@ var nodes = [
     {
       "id": "10.3",
        
-        "label": "recht auf leben und freiheit",
+        "label": "Recht auf Leben und Freiheit",
         "x": -704.98334,
         "y": -1469.9701,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2776,13 +2776,13 @@ var nodes = [
     {
       "id": "10.4",
        
-        "label": "verbot der sklaverrei und des sklavenhandels",
+        "label": "Verbot der Sklaverrei und des Sklavenhandels",
         "x": -822.28357,
         "y": -1432.5583,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2791,13 +2791,13 @@ var nodes = [
     {
       "id": "10.5",
        
-        "label": "verbot der folter",
+        "label": "Verbot der Folter",
         "x": -810.1487,
         "y": -1538.6666,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2806,13 +2806,13 @@ var nodes = [
     {
       "id": "10.6",
        
-        "label": "anerkennung als rechtsperson",
+        "label": "Anerkennung als Rechtsperson",
         "x": -700.5373,
         "y": -1524.4807,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2821,13 +2821,13 @@ var nodes = [
     {
       "id": "10.7",
        
-        "label": "gleichheit vor dem gesetz",
+        "label": "Gleichheit vor dem Gesetz",
         "x": -738.8674,
         "y": -1412.2031,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2836,13 +2836,13 @@ var nodes = [
     {
       "id": "10.8",
        
-        "label": "anspruch auf rechtsschutz",
+        "label": "Anspruch auf Rechtsschutz",
         "x": -871.5778,
         "y": -1472.5092,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2851,13 +2851,13 @@ var nodes = [
     {
       "id": "10.9",
        
-        "label": "schutz vor willkürlicher verhaftung und ausweisung",
+        "label": "Schutz vor willkürlicher Verhaftung und Ausweisung",
         "x": -849.2776,
         "y": -1531.525,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2866,13 +2866,13 @@ var nodes = [
     {
       "id": "10.10",
        
-        "label": "anspruch auf rechtliches gehör",
+        "label": "Anspruch auf rechtliches Gehör",
         "x": -870.25543,
         "y": -1509.7715,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2887,7 +2887,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2896,13 +2896,13 @@ var nodes = [
     {
       "id": "10.12",
        
-        "label": "schutz der Freiheitssphäre des Einzelnen",
+        "label": "Schutz der Freiheitssphäre des Einzelnen",
         "x": -812.84296,
         "y": -1580.6829,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2911,13 +2911,13 @@ var nodes = [
     {
       "id": "10.13",
        
-        "label": "freizügigkeit und auswanderungsfreiheit",
+        "label": "Freizügigkeit und Auswanderungsfreiheit",
         "x": -796.16925,
         "y": -1457.318,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2926,13 +2926,13 @@ var nodes = [
     {
       "id": "10.14",
        
-        "label": "recht auf asyl",
+        "label": "Recht auf Asyl",
         "x": -744.77106,
         "y": -1564.1482,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2941,13 +2941,13 @@ var nodes = [
     {
       "id": "10.15",
        
-        "label": "recht auf staatsangehörigkeit",
+        "label": "Recht auf Staatsangehörigkeit",
         "x": -711.5623,
         "y": -1440.0289,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2956,13 +2956,13 @@ var nodes = [
     {
       "id": "10.16",
        
-        "label": "ehefreiheit und schutz der familie",
+        "label": "Ehefreiheit und Schutz der Familie",
         "x": -879.97235,
         "y": -1430.7181,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2971,13 +2971,13 @@ var nodes = [
     {
       "id": "10.17",
        
-        "label": "eigentumsgarantie",
+        "label": "Eigentumsgarantie",
         "x": -848.8549,
         "y": -1402.6908,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -2986,13 +2986,13 @@ var nodes = [
     {
       "id": "10.18",
        
-        "label": "gedanken gewissen und religionsfreiheit",
+        "label": "Gedanken-, Gewissen- und Religionsfreiheit",
         "x": -902.9861,
         "y": -1490.0846,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3001,13 +3001,13 @@ var nodes = [
     {
       "id": "10.19",
        
-        "label": "Meinungs und Informationsfreiheit",
+        "label": "Meinungs- und Informationsfreiheit",
         "x": -779.8623,
         "y": -1562.6609,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3016,13 +3016,13 @@ var nodes = [
     {
       "id": "10.20",
        
-        "label": "Versammlungs und vereinigungsfreiheit",
+        "label": "Versammlungs- und Vereinigungsfreiheit",
         "x": -835.29926,
         "y": -1562.0074,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3031,13 +3031,13 @@ var nodes = [
     {
       "id": "10.21",
        
-        "label": "Allgemeines und gleiches wahlrecht zulassung zu öffentlichen ämtern",
+        "label": "Allgemeines und gleiches Wahlrecht, Zulassung zu öffentlichen Ämtern",
         "x": -722.1738,
         "y": -1544.162,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3046,13 +3046,13 @@ var nodes = [
     {
       "id": "10.22",
        
-        "label": "recht auf soziale sicherheit",
+        "label": "Recht auf soziale Sicherheit",
         "x": -745.92896,
         "y": -1507.5585,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3061,13 +3061,13 @@ var nodes = [
     {
       "id": "10.23",
        
-        "label": "recht auf Arbeit und gleichen Lohn Koalitionsfreiheit",
+        "label": "Recht auf Arbeit und gleichen Lohn, Koalitionsfreiheit",
         "x": -843.8696,
         "y": -1488.769,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3076,13 +3076,13 @@ var nodes = [
     {
       "id": "10.24",
        
-        "label": "Recht auf erholung und Freizeit",
+        "label": "Recht auf Erholung und Freizeit",
         "x": -772.4175,
         "y": -1429.0052,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3097,7 +3097,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3106,13 +3106,13 @@ var nodes = [
     {
       "id": "10.26",
        
-        "label": "recht auf bildung erziehungsziele elternrecht",
+        "label": "Recht auf Bildung, Erziehungsziele, Elternrecht",
         "x": -764.98944,
         "y": -1527.4685,
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3127,7 +3127,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3142,7 +3142,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3157,7 +3157,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3172,7 +3172,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0013",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Sozial",
         "link": "https://www.un.org/depts/german/menschenrechte/aemr.pdf",
         "from": "UN"
@@ -3187,7 +3187,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3202,7 +3202,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff04",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3217,7 +3217,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff04",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3232,7 +3232,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff1a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3247,7 +3247,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff04",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3256,13 +3256,13 @@ var nodes = [
     {
       "id": "11.5",
        
-        "label": "erneuerbare Resfromn",
+        "label": "Erneuerbare Ressourcen",
         "x": -290.40527,
         "y": -1171.4998,
         "value": 12.0,
         "color": "#00ff04",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3271,13 +3271,13 @@ var nodes = [
     {
       "id": "11.6",
        
-        "label": "nicht erneuerbare Resfromn",
+        "label": "Nicht erneuerbare Ressourcen",
         "x": -170.35553,
         "y": -1162.968,
         "value": 12.0,
         "color": "#00ff04",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3292,7 +3292,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3307,7 +3307,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3322,7 +3322,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3337,7 +3337,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3352,7 +3352,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3367,7 +3367,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0007",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Gesellschaft/Sozial",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3382,7 +3382,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3397,7 +3397,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3412,7 +3412,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3421,13 +3421,13 @@ var nodes = [
     {
       "id": "11.16",
        
-        "label": "regionaler Selbstversorgungsgrad",
+        "label": "Regionaler Selbstversorgungsgrad",
         "x": -185.5658,
         "y": -1050.8894,
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3442,7 +3442,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3457,7 +3457,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff000a",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.nachhaltigkeit.info/artikel/zauberscheiben_der_nachhaltigkeit_1745.htm",
         "from": "Störmer"
@@ -3472,7 +3472,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
         "from": "M4E"
@@ -3481,13 +3481,13 @@ var nodes = [
     {
       "id": "12.1",
        
-        "label": "hoher Beschäftigungsgrad",
+        "label": "Hoher Beschäftigungsgrad",
         "x": -485.73608,
         "y": -1643.1901,
         "value": 12.0,
         "color": "#ff0309",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
         "from": "M4E"
@@ -3496,13 +3496,13 @@ var nodes = [
     {
       "id": "12.2",
        
-        "label": "außenwirtschaftliches Gleichgewicht",
+        "label": "Außenwirtschaftliches Gleichgewicht",
         "x": -565.597,
         "y": -1632.3936,
         "value": 12.0,
         "color": "#ff0309",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
         "from": "M4E"
@@ -3511,13 +3511,13 @@ var nodes = [
     {
       "id": "12.3",
        
-        "label": "stetiges und angemessenes Wirtschaftswachstum",
+        "label": "Stetiges und angemessenes Wirtschaftswachstum",
         "x": -542.0962,
         "y": -1579.5154,
         "value": 12.0,
         "color": "#ff0309",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
         "from": "M4E"
@@ -3526,13 +3526,13 @@ var nodes = [
     {
       "id": "12.4",
        
-        "label": "stabiles Preisniveau",
+        "label": "Stabiles Preisniveau",
         "x": -478.1082,
         "y": -1600.9117,
         "value": 12.0,
         "color": "#ff0309",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/magisches-viereck.html",
         "from": "M4E"
@@ -3547,7 +3547,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
         "from": "?"
@@ -3562,7 +3562,7 @@ var nodes = [
         "value": 12.0,
         "color": "#8aa8ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
         "from": "M3E"
@@ -3577,7 +3577,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
         "from": "M3E"
@@ -3592,7 +3592,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://de.wikipedia.org/wiki/Magisches_Dreieck_(Projektmanagement)",
         "from": "M3E"
@@ -3607,7 +3607,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3622,7 +3622,7 @@ var nodes = [
         "value": 12.0,
         "color": "#c5d9ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3637,7 +3637,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3652,7 +3652,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3667,7 +3667,7 @@ var nodes = [
         "value": 12.0,
         "color": "#c5d9ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3682,7 +3682,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3697,7 +3697,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3712,7 +3712,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3721,13 +3721,13 @@ var nodes = [
     {
       "id": "14.6",
        
-        "label": "kürzere Lieferzeiten",
+        "label": "Kürzere Lieferzeiten",
         "x": -116.994095,
         "y": -1757.3174,
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3736,13 +3736,13 @@ var nodes = [
     {
       "id": "14.7",
        
-        "label": "besserer Service",
+        "label": "Besserer Service",
         "x": -154.82228,
         "y": -1828.1462,
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Unterzielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.springerprofessional.de/kostenguenstig-entwickeln-und-konstruieren/18617284#TOC",
         "from": "Ehrlenspiel"
@@ -3757,7 +3757,7 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3772,7 +3772,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3787,7 +3787,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3802,7 +3802,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3817,7 +3817,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3832,7 +3832,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3847,7 +3847,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3862,7 +3862,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3877,7 +3877,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3892,7 +3892,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3907,7 +3907,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3922,7 +3922,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3937,7 +3937,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://www.academia.edu/25366909/The_balance_on_the_balanced_scorecard_a_critical_analysis_of_some_of_its_assumptions",
         "from": "Kaplan und Norton"
@@ -3952,8 +3952,8 @@ var nodes = [
         "value": 30,
         "color": "#adacad",
         "object": "Modell",
-        "unit": "null",
-        "sustainabilitydimension": "null",
+        "unit": "keine Angabe",
+        "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
@@ -3961,14 +3961,14 @@ var nodes = [
     {
       "id": "16.1",
        
-        "label": "Must-be Quality Elements",
+        "label": "Must-be quality elements",
         "x": -162.6867,
         "y": -1540.7805,
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgrößen",
-        "unit": "null",
-        "sustainabilitydimension": "null",
+        "unit": "keine Angabe",
+        "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
@@ -3976,14 +3976,14 @@ var nodes = [
     {
       "id": "16.2",
        
-        "label": "One-dimensional Quality Elements",
+        "label": "One-dimensional quality elements",
         "x": -106.7973,
         "y": -1500.0721,
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgrößen",
-        "unit": "null",
-        "sustainabilitydimension": "null",
+        "unit": "keine Angabe",
+        "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
@@ -3991,14 +3991,14 @@ var nodes = [
     {
       "id": "16.3",
        
-        "label": "Attractive Quality Elements",
+        "label": "Attractive quality elements",
         "x": -78.14804,
         "y": -1569.8468,
         "value": 12.0,
         "color": "#8dabff",
         "object": "Zielgrößen",
-        "unit": "null",
-        "sustainabilitydimension": "null",
+        "unit": "keine Angabe",
+        "sustainabilitydimension": "keine Angabe",
         "link": "https://de.wikipedia.org/wiki/Kano-Modell",
         "from": "Kano"
       }
@@ -4006,13 +4006,13 @@ var nodes = [
     {
       "id": "17",
        
-        "label": "used.Community Sustainable targetsystem",
+        "label": "used.Community Sustainable Targetsystem",
         "x": -395.0879,
         "y": -1373.8574,
         "value": 50.0,
         "color": "#adacad",
         "object": "Zielsystem",
-        "unit": "null",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "CML, DM, Erlenspiel, PG, ReCiPe, Menschenrechte, SDGs, SETAC, Störmer, GD"
@@ -4036,7 +4036,7 @@ var nodes = [
     {
       "id": "17.2",
        
-        "label": "Stratos. Ozone depletion",
+        "label": "Stratos. ozone depletion",
         "x": -230.61615,
         "y": -1385.734,
         "value": 12.0,
@@ -4066,7 +4066,7 @@ var nodes = [
     {
       "id": "17.4",
        
-        "label": "Trop. Ozon formation /Photochemical Oxidation",
+        "label": "Trop. ozon formation /Photochemical oxidation",
         "x": -301.85916,
         "y": -1359.3275,
         "value": 12.0,
@@ -4096,7 +4096,7 @@ var nodes = [
     {
       "id": "17.6",
        
-        "label": "Human Toxicity",
+        "label": "Human toxicity",
         "x": -430.89423,
         "y": -1293.6758,
         "value": 12.0,
@@ -4111,7 +4111,7 @@ var nodes = [
     {
       "id": "17.7",
        
-        "label": "Eco Toxicity",
+        "label": "Eco toxicity",
         "x": -360.74805,
         "y": -1308.9867,
         "value": 12.0,
@@ -4276,7 +4276,7 @@ var nodes = [
     {
       "id": "17.18",
        
-        "label": "Energy Use",
+        "label": "Energy use",
         "x": -398.735,
         "y": -1301.567,
         "value": 12.0,
@@ -4396,7 +4396,7 @@ var nodes = [
     {
       "id": "17.26",
        
-        "label": "Freedom and Free Culture",
+        "label": "Freedom and free culture",
         "x": -558.00134,
         "y": -1430.0972,
         "value": 12.0,
@@ -4576,7 +4576,7 @@ var nodes = [
     {
       "id": "17.38",
        
-        "label": "Child Labor",
+        "label": "Child labor",
         "x": -538.5945,
         "y": -1397.322,
         "value": 12.0,
@@ -4591,7 +4591,7 @@ var nodes = [
     {
       "id": "17.39",
        
-        "label": "Forced Labor",
+        "label": "Forced labor",
         "x": -514.7991,
         "y": -1430.321,
         "value": 12.0,
@@ -4606,7 +4606,7 @@ var nodes = [
     {
       "id": "17.40",
        
-        "label": "Fair Competition and no Curruption",
+        "label": "Fair competition and no curruption",
         "x": -490.37134,
         "y": -1273.8892,
         "value": 12.0,
@@ -4626,17 +4626,17 @@ var nodes = [
         "y": -1429.3888,
         "value": 12.0,
         "color": "#c5d9ff",
-        "object": "null",
-        "unit": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "null"
+        "from": "keine Angabe"
       }
      ,
     {
       "id": "17.41",
        
-        "label": "Must-be Quality Elements",
+        "label": "Must-be quality elements",
         "x": -298.15152,
         "y": -1504.2812,
         "value": 12.0,
@@ -4651,7 +4651,7 @@ var nodes = [
     {
       "id": "17.42",
        
-        "label": "One-dimensional Quality Elements",
+        "label": "One-dimensional quality elements",
         "x": -275.07977,
         "y": -1479.235,
         "value": 12.0,
@@ -4666,7 +4666,7 @@ var nodes = [
     {
       "id": "17.43",
        
-        "label": "Attractive Quality Elements",
+        "label": "Attractive quality elements",
         "x": -314.0527,
         "y": -1467.8394,
         "value": 12.0,
@@ -4686,11 +4686,11 @@ var nodes = [
         "y": -1439.6521,
         "value": 12.0,
         "color": "#c5d9ff",
-        "object": "null",
-        "unit": "null",
-        "sustainabilitydimension": "null",
+        "object": "keine Angabe",
+        "unit": "keine Angabe",
+        "sustainabilitydimension": "keine Angabe",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "null"
+        "from": "keine Angabe"
       }
      ,
     {
