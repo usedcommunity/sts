@@ -4027,7 +4027,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kBq Co-60 to air eq",
+        "unit": "Sievert (Sv), Man-Sievert (man-Sv), kBq (kilo Becquerel)",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4042,7 +4042,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg NOx eq to air",
+        "unit": "kg CFC-11-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4057,7 +4057,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg PM2,5 -eq",
+        "unit": "PM10, PM2.5, kg PM2.5-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4072,7 +4072,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg NOx eq to air",
+        "unit": "kg NMVOC-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4087,7 +4087,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "m3 wasser konsum",
+        "unit": "m³ Wasserverbrauch, m³ Wasserentzug",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4102,7 +4102,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg 1,4-DB eq to urban air",
+        "unit": "CTUh (comparative toxic units for humans), kg 1,4-DB-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4117,7 +4117,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff07",
         "object": "Zielgröße",
-        "unit": "kg 1,4-DB eq",
+        "unit": "CTUe (comparative toxic units for ecosystems), kg 1,4-DB-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4132,7 +4132,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg CO2 eq",
+        "unit": "kg CO₂-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4147,7 +4147,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg CO2 eq",
+        "unit": "kg SO₂-Äquivalent, mol H+-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4162,7 +4162,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg N to Marine water eq",
+        "unit": "kg N-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4177,7 +4177,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg P to fresh water eq",
+        "unit": "kg P-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4192,7 +4192,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "Accumulated Exceedance – AE (mol N eq)",
+        "unit": "kg N-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4207,7 +4207,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "m2 x yr annual corp land",
+        "unit": "m²a (Flächenverbrauch pro Jahr), PDFm²a (potentieller Artenverlust)",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4222,7 +4222,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "kg SO2 eq",
+        "unit": "kg SO₂-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4237,7 +4237,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Keine spezifische Einheit; Biodiversitätsverlust wird oft in PDF (potentially disappeared fraction) gemessen.",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4252,7 +4252,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff07",
         "object": "Zielgröße",
-        "unit": "kg Cu eq",
+        "unit": "kg abgebauter Rohstoffe, kg Cu-Äquivalent (Kupfer)",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4267,7 +4267,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "Kg Oil eq",
+        "unit": "kg Öl-Äquivalent, MJ (MegaJoule)",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4282,7 +4282,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "MJ",
+        "unit": "MJ (MegaJoule), kWh (Kilowattstunden)",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4297,7 +4297,7 @@ var nodes = [
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
-        "unit": "OU/m³",
+        "unit": "OU/m³ (Odour Units pro Kubikmeter)",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4312,7 +4312,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Kalorien/Tag, kg Lebensmittel/Person, Anteil unterernährter Menschen (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4327,7 +4327,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Lebenserwartung (Jahre), Mortalitätsraten (%), Disability-Adjusted Life Years",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "Dused.Community"
@@ -4342,7 +4342,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Alphabetisierungsrate (%), durchschnittliche Schulbesuchsjahre, Zugang zu Bildungseinrichtungen (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4357,7 +4357,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Medianlohn, Armutsquote (%), Arbeitslosenquote (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4372,7 +4372,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Anzahl Konflikte, Opfer von Gewalt (pro 100.000 Menschen), Flüchtlingszahlen",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4387,7 +4387,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Gender Gap Index, Gini-Koeffizient (Ungleichheit), Anteil der Menschen mit Zugang zu Justiz (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4402,7 +4402,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Press Freedom Index, Zugang zu kulturellen Einrichtungen (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4417,7 +4417,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Wahlbeteiligung (%), Freedom House Index",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4432,7 +4432,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "km/Person/Tag",
+        "unit": "Anteil der Bevölkerung mit Zugang zu öffentlichen Verkehrsmitteln (%), Transportkostenanteil am Einkommen (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4447,7 +4447,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Gini-Koeffizient, Armutsquote (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4462,7 +4462,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Gender Gap Index, Anteil weiblicher Führungskräfte (%), geschlechtsspezifische Lohnlücke (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4477,7 +4477,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "m3/Person",
+        "unit": "Anteil der Bevölkerung mit Zugang zu sauberem Wasser (%), Anteil der Menschen ohne angemessene Unterkunft (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4492,7 +4492,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Soziale Vernetzungsraten (%), Anteil ehrenamtlicher Tätigkeiten (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4507,7 +4507,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "kWh/Person",
+        "unit": "Anteil der Bevölkerung mit Stromzugang (%), Energieverbrauch pro Person (kWh)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4522,7 +4522,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "m3/Person",
+        "unit": "Wasserverbrauch pro Kopf (m³/Jahr), Anteil der Bevölkerung mit Zugang zu sicherem Trinkwasser (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4537,7 +4537,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Verbrauch materieller Ressourcen pro Kopf (kg/Jahr), Recyclingquote (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4552,7 +4552,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Anzahl Datenschutzverletzungen, Vertrauen in digitale Plattformen (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4567,7 +4567,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Anzahl der Migranten/Flüchtlinge (pro Jahr), Anteil der Migranten an der Bevölkerung (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4582,7 +4582,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Anzahl arbeitender Kinder (Alter 5-17), Anteil an der Gesamtbevölkerung (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4597,7 +4597,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Anzahl Betroffener weltweit, Anteil an der Arbeitskraft (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4612,7 +4612,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Corruption Perception Index, Anzahl Wettbewerbsverstöße",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
