@@ -4015,7 +4015,7 @@ var nodes = [
         "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "CML, DM, Erlenspiel, PG, ReCiPe, Menschenrechte, SDGs, SETAC, Störmer, GD"
+        "from": "used.Community"
       }
      ,
     {
@@ -4030,7 +4030,7 @@ var nodes = [
         "unit": "kBq Co-60 to air eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4045,7 +4045,7 @@ var nodes = [
         "unit": "kg NOx eq to air",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, DM, PG, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4060,7 +4060,7 @@ var nodes = [
         "unit": "kg PM2,5 -eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, DM, PG, Störmer, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4075,7 +4075,7 @@ var nodes = [
         "unit": "kg NOx eq to air",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, Störmer, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4090,7 +4090,7 @@ var nodes = [
         "unit": "m3 wasser konsum",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, DM, PG, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4105,7 +4105,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq to urban air",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, DM, PG, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4120,7 +4120,7 @@ var nodes = [
         "unit": "kg 1,4-DB eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "EC, ReCiPe, CML, PG, DM, GD"
+        "from": "used.Community"
       }
      ,
     {
@@ -4135,7 +4135,7 @@ var nodes = [
         "unit": "kg CO2 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, DM, PG, SDG, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4150,7 +4150,7 @@ var nodes = [
         "unit": "kg CO2 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "PG, DM"
+        "from": "used.Community"
       }
      ,
     {
@@ -4165,7 +4165,7 @@ var nodes = [
         "unit": "kg N to Marine water eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4180,7 +4180,7 @@ var nodes = [
         "unit": "kg P to fresh water eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, DM, PG, SDG, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4195,7 +4195,7 @@ var nodes = [
         "unit": "Accumulated Exceedance – AE (mol N eq)",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4210,7 +4210,7 @@ var nodes = [
         "unit": "m2 x yr annual corp land",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, DM, PG, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4225,7 +4225,7 @@ var nodes = [
         "unit": "kg SO2 eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4240,7 +4240,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "PG, DM, SDG, Störmer"
+        "from": "used.Community"
       }
      ,
     {
@@ -4255,7 +4255,7 @@ var nodes = [
         "unit": "kg Cu eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, Störmer, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4270,7 +4270,7 @@ var nodes = [
         "unit": "Kg Oil eq",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "ReCiPe, CML, Störmer, GD, EC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4285,7 +4285,7 @@ var nodes = [
         "unit": "MJ",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "GD"
+        "from": "used.Community"
       }
      ,
     {
@@ -4300,7 +4300,7 @@ var nodes = [
         "unit": "OU/m³",
         "sustainabilitydimension": "Ökologisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "GD"
+        "from": "used.Community"
       }
      ,
     {
@@ -4315,7 +4315,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, SETAC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4330,7 +4330,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
+        "from": "Dused.Community"
       }
      ,
     {
@@ -4345,7 +4345,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, Störmer"
+        "from": "used.Community"
       }
      ,
     {
@@ -4360,7 +4360,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, SETAC, Störmer, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4375,7 +4375,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, Störmer"
+        "from": "used.Community"
       }
      ,
     {
@@ -4390,7 +4390,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4405,7 +4405,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Menschenrechte, SETAC, Störmer"
+        "from": "used.Community"
       }
      ,
     {
@@ -4420,7 +4420,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, Störmer, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4435,7 +4435,7 @@ var nodes = [
         "unit": "km/Person/Tag",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "SDG, SETAC, Störmer"
+        "from": "used.Community"
       }
      ,
     {
@@ -4450,7 +4450,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4465,7 +4465,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte"
+        "from": "used.Community"
       }
      ,
     {
@@ -4480,7 +4480,7 @@ var nodes = [
         "unit": "m3/Person",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4495,7 +4495,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, Störmer, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4510,7 +4510,7 @@ var nodes = [
         "unit": "kWh/Person",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, Störmer"
+        "from": "used.Community"
       }
      ,
     {
@@ -4525,7 +4525,7 @@ var nodes = [
         "unit": "m3/Person",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "DM, SDG, Menschenrechte, SETAC, Störmer"
+        "from": "used.Community"
       }
      ,
     {
@@ -4540,7 +4540,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "SETAC, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4555,7 +4555,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Menschenrechte, SETAC"
+        "from": "used.Community"
       }
      ,
     {
@@ -4570,7 +4570,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "SETAC, Störmer, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4585,7 +4585,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "SETAC, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4600,7 +4600,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "SETAC, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4615,7 +4615,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "SETAC, PSILCA"
+        "from": "used.Community"
       }
      ,
     {
@@ -4630,7 +4630,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "keine Angabe"
+        "from": "used.Community"
       }
      ,
     {
@@ -4645,7 +4645,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Kano"
+        "from": "used.Community"
       }
      ,
     {
@@ -4660,7 +4660,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Kano"
+        "from": "used.Community"
       }
      ,
     {
@@ -4675,7 +4675,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Kano"
+        "from": "used.Community"
       }
      ,
     {
@@ -4690,7 +4690,7 @@ var nodes = [
         "unit": "Ausstehend",
         "sustainabilitydimension": "keine Angabe",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "keine Angabe"
+        "from": "used.Community"
       }
      ,
     {
@@ -4705,7 +4705,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Nach PLZ VDI2221"
+        "from": "used.Community"
       }
      ,
     {
@@ -4720,7 +4720,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Nach PLZ VDI2221"
+        "from": "used.Community"
       }
      ,
     {
@@ -4735,7 +4735,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Ergenzt"
+        "from": "used.Community"
       }
      ,
     {
@@ -4750,7 +4750,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Nach PLZ VDI2221"
+        "from": "used.Community"
       }
      ,
     {
@@ -4765,7 +4765,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Ergenzt"
+        "from": "used.Community"
       }
      ,
     {
@@ -4780,7 +4780,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Nach PLZ VDI2221"
+        "from": "used.Community"
       }
      ,
     {
@@ -4795,7 +4795,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Nach PLZ VDI2221"
+        "from": "used.Community"
       }
      ,
     {
@@ -4810,7 +4810,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Ergenzt"
+        "from": "used.Community"
       }
      ,
     {
@@ -4825,7 +4825,7 @@ var nodes = [
         "unit": "€",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
-        "from": "Ergenzt"
+        "from": "used.Community"
       }
      ,
   ];
