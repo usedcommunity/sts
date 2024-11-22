@@ -4387,7 +4387,7 @@ var nodes = [
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
-        "unit": "Gender Gap Index, Gini-Koeffizient (Ungleichheit), Anteil der Menschen mit Zugang zu Justiz (%)",
+        "unit": "Gini-Koeffizient (Ungleichheit), Anteil der Menschen mit Zugang zu Justiz (%)",
         "sustainabilitydimension": "Sozial",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
