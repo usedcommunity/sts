@@ -4627,7 +4627,7 @@ var nodes = [
         "value": 12.0,
         "color": "#c5d9ff",
         "object": "Zielkategorie",
-        "unit": "Ausstehend",
+        "unit": "Umsatz (€)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4642,7 +4642,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Erfüllungsgrad, Fehlerquoten, Umsatzanteil",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4657,7 +4657,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Erfüllungsgrad, Umsatzanteil, technische Leistungsindikatoren",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4672,7 +4672,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "Ausstehend",
+        "unit": "Net Promoter Score (NPS), Anteil positiver Kundenrückmeldungen (%).",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4687,7 +4687,7 @@ var nodes = [
         "value": 12.0,
         "color": "#c5d9ff",
         "object": "Zielkategorie",
-        "unit": "Ausstehend",
+        "unit": "Kosten (€)",
         "sustainabilitydimension": "keine Angabe",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4702,7 +4702,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Gesamtkosten der Planung (€), Planungszeit (Stunden/Tage)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4717,7 +4717,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Forschungs- und Entwicklungsausgaben (€), Zeit bis zur Markteinführung (Tage/Monate/Jahre)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4732,7 +4732,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Kosten pro Einheit (€/Stück), Gesamtkosten der Beschaffung (€)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4747,7 +4747,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Gesammtkosten der Produktion (€), Kosten pro Stück (€), Energieverbrauch (kWh/Stück)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4762,7 +4762,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Gesammtkosten der Distibution (€), Transportkosten pro Einheit (€), Lagerkosten pro Quadratmeter (€)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4777,7 +4777,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Gesammtkosten für Garantie- und Gewährleistung (€), Kosten pro Garantiefall (€), durchschnittliche Fehlerquote (%)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4792,7 +4792,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Gesammtkosten EoL-Kosten(€), Entsorgungskosten pro Einheit (€), Recyclingquote (%)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4807,7 +4807,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Gesammtkosten für Verwaltung (€), Verwaltungskosten pro Mitarbeiter (€)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
@@ -4822,7 +4822,7 @@ var nodes = [
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
-        "unit": "€",
+        "unit": "Gesammtkosten für Kompensation (€), Zertifikatskosten (€)",
         "sustainabilitydimension": "Ökonomisch",
         "link": "https://github.com/usedcommunity/used/wiki",
         "from": "used.Community"
