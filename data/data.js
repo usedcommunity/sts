@@ -4014,7 +4014,7 @@ var nodes = [
         "object": "Zielsystem",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Alle",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem",
         "from": "used.Community"
       }
      ,
@@ -4029,7 +4029,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Sievert (Sv), Man-Sievert (man-Sv), kBq (kilo Becquerel)",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#ionizing-radiation-ionisierende-strahlung",
         "from": "used.Community"
       }
      ,
@@ -4044,7 +4044,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg CFC-11-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#stratos-ozone-depletion-stratosph%C3%A4rischer-ozonabbau",
         "from": "used.Community"
       }
      ,
