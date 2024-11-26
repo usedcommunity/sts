@@ -4059,7 +4059,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "PM10, PM2.5, kg PM2.5-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#particulate-matter-feinstaub",
         "from": "used.Community"
       }
      ,
@@ -4074,7 +4074,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg NMVOC-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#trop-ozon-formation-tropph%C3%A4rische-ozonbildung",
         "from": "used.Community"
       }
      ,
@@ -4089,7 +4089,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "m³ Wasserverbrauch, m³ Wasserentzug",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#water-use-wasserverbrauch",
         "from": "used.Community"
       }
      ,
@@ -4104,7 +4104,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "CTUh (comparative toxic units for humans), kg 1,4-DB-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#human-toxicity-humantoxizit%C3%A4t",
         "from": "used.Community"
       }
      ,
@@ -4119,7 +4119,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "CTUe (comparative toxic units for ecosystems), kg 1,4-DB-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#eco-toxicity-%C3%B6kotoxizit%C3%A4t",
         "from": "used.Community"
       }
      ,
@@ -4134,7 +4134,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg CO₂-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#global-warming-globale-erw%C3%A4rmung",
         "from": "used.Community"
       }
      ,
@@ -4149,7 +4149,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg SO₂-Äquivalent, mol H+-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#ocean-acidification-ozeanversauerung",
         "from": "used.Community"
       }
      ,
@@ -4164,7 +4164,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg N-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#marine-eutrophication-marine-eutrophierung",
         "from": "used.Community"
       }
      ,
@@ -4179,7 +4179,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg P-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#freshwater-eutrophication-s%C3%BC%C3%9Fwassereutrophierung",
         "from": "used.Community"
       }
      ,
@@ -4194,7 +4194,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg N-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#terrestrial-eutrophication-terrestrische-eutrophierung",
         "from": "used.Community"
       }
      ,
@@ -4209,7 +4209,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "m²a (Flächenverbrauch pro Jahr), PDFm²a (potentieller Artenverlust)",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#land-usetransformation-landnutzungtransformation",
         "from": "used.Community"
       }
      ,
@@ -4224,7 +4224,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg SO₂-Äquivalent",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#terrestrial-acidification-terrestrische-versauerung",
         "from": "used.Community"
       }
      ,
@@ -4239,7 +4239,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Keine spezifische Einheit; Biodiversitätsverlust wird oft in PDF (potentially disappeared fraction) gemessen.",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#biosphere-integrity-biosph%C3%A4renintegrit%C3%A4t",
         "from": "used.Community"
       }
      ,
@@ -4254,7 +4254,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg abgebauter Rohstoffe, kg Cu-Äquivalent (Kupfer)",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#mineral-resources-mineralische-ressourcen",
         "from": "used.Community"
       }
      ,
@@ -4269,7 +4269,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "kg Öl-Äquivalent, MJ (MegaJoule)",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#fossil-resources-fossile-ressourcen",
         "from": "used.Community"
       }
      ,
@@ -4284,7 +4284,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "MJ (MegaJoule), kWh (Kilowattstunden)",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#energy-use-energieverbrauch",
         "from": "used.Community"
       }
      ,
@@ -4299,7 +4299,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "OU/m³ (Odour Units pro Kubikmeter)",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#odour-geruch",
         "from": "used.Community"
       }
      ,
@@ -4314,7 +4314,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Kalorien/Tag, kg Lebensmittel/Person, Anteil unterernährter Menschen (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#foodzero-hunger-nahrungkein-hunger",
         "from": "used.Community"
       }
      ,
@@ -4329,7 +4329,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Lebenserwartung (Jahre), Mortalitätsraten (%), Disability-Adjusted Life Years",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#health-safety-and-well-being-gesundheit-sicherheit-und-wohlbefinden",
         "from": "Dused.Community"
       }
      ,
@@ -4344,7 +4344,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Alphabetisierungsrate (%), durchschnittliche Schulbesuchsjahre, Zugang zu Bildungseinrichtungen (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#educationbildung",
         "from": "used.Community"
       }
      ,
@@ -4359,7 +4359,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Medianlohn, Armutsquote (%), Arbeitslosenquote (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#fair-income-and-workno-poverty-gerechtes-einkommen-und-arbeit",
         "from": "used.Community"
       }
      ,
@@ -4374,7 +4374,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anzahl Konflikte, Opfer von Gewalt (pro 100.000 Menschen), Flüchtlingszahlen",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#peace-frieden",
         "from": "used.Community"
       }
      ,
@@ -4389,7 +4389,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gini-Koeffizient (Ungleichheit), Anteil der Menschen mit Zugang zu Justiz (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#equal-rights-and-justice-gleichheit-und-gerechtigkeit",
         "from": "used.Community"
       }
      ,
@@ -4404,7 +4404,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Press Freedom Index, Zugang zu kulturellen Einrichtungen (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#freedom-and-free-culture-freiheit-und-freie-kultur",
         "from": "used.Community"
       }
      ,
@@ -4419,7 +4419,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Wahlbeteiligung (%), Freedom House Index",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#political-voice-politische-teilhabe",
         "from": "used.Community"
       }
      ,
@@ -4434,7 +4434,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anteil der Bevölkerung mit Zugang zu öffentlichen Verkehrsmitteln (%), Transportkostenanteil am Einkommen (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#mobility-availability-verf%C3%BCgbarkeit-von-mobilit%C3%A4t",
         "from": "used.Community"
       }
      ,
@@ -4449,7 +4449,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gini-Koeffizient, Armutsquote (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#social-equality-soziale-gleichheit",
         "from": "used.Community"
       }
      ,
@@ -4464,7 +4464,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gender Gap Index, Anteil weiblicher Führungskräfte (%), geschlechtsspezifische Lohnlücke (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#gender-equality-geschlechtergleichheit",
         "from": "used.Community"
       }
      ,
@@ -4479,7 +4479,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anteil der Bevölkerung mit Zugang zu sauberem Wasser (%), Anteil der Menschen ohne angemessene Unterkunft (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#housing-and-sanitation-wohnraum-und-sanit%C3%A4re-versorgung",
         "from": "used.Community"
       }
      ,
@@ -4494,7 +4494,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Soziale Vernetzungsraten (%), Anteil ehrenamtlicher Tätigkeiten (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#networks-and-communitys-netzwerke-und-gemeinschaften",
         "from": "used.Community"
       }
      ,
@@ -4509,7 +4509,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anteil der Bevölkerung mit Stromzugang (%), Energieverbrauch pro Person (kWh)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#energy-availability-energieverf%C3%BCgbarkeit",
         "from": "used.Community"
       }
      ,
@@ -4524,7 +4524,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Wasserverbrauch pro Kopf (m³/Jahr), Anteil der Bevölkerung mit Zugang zu sicherem Trinkwasser (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#freshwater-availability-verf%C3%BCgbarkeit-von-s%C3%BC%C3%9Fwasser",
         "from": "used.Community"
       }
      ,
@@ -4539,7 +4539,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Verbrauch materieller Ressourcen pro Kopf (kg/Jahr), Recyclingquote (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#material-resources-availability-verf%C3%BCgbarkeit-materieller-ressourcen",
         "from": "used.Community"
       }
      ,
@@ -4554,7 +4554,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anzahl Datenschutzverletzungen, Vertrauen in digitale Plattformen (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#protection-of-privacy-schutz-der-privatsph%C3%A4re",
         "from": "used.Community"
       }
      ,
@@ -4569,7 +4569,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anzahl der Migranten/Flüchtlinge (pro Jahr), Anteil der Migranten an der Bevölkerung (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#delocalization-and-migration-abwanderung-und-migration",
         "from": "used.Community"
       }
      ,
@@ -4584,7 +4584,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anzahl arbeitender Kinder (Alter 5-17), Anteil an der Gesamtbevölkerung (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#child-labor-kinderarbeit",
         "from": "used.Community"
       }
      ,
@@ -4599,7 +4599,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Anzahl Betroffener weltweit, Anteil an der Arbeitskraft (%)",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#forced-labor-zwangsarbeit",
         "from": "used.Community"
       }
      ,
@@ -4614,7 +4614,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Corruption Perception Index, Anzahl Wettbewerbsverstöße",
         "sustainabilitydimension": "Sozial",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#fair-competition-and-no-curruption-faire-wettbewerbsbedingungen-und-keine-korruption",
         "from": "used.Community"
       }
      ,
@@ -4629,7 +4629,7 @@ var nodes = [
         "object": "Zielkategorie",
         "unit": "Umsatz (€)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#must-be-quality-elements-basismerkmale",
         "from": "used.Community"
       }
      ,
@@ -4644,7 +4644,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Erfüllungsgrad, Fehlerquoten, Umsatzanteil",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#must-be-quality-elements-basismerkmale",
         "from": "used.Community"
       }
      ,
@@ -4659,7 +4659,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Erfüllungsgrad, Umsatzanteil, technische Leistungsindikatoren",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#one-dimensional-quality-elements-leistungsmerkmale",
         "from": "used.Community"
       }
      ,
@@ -4674,7 +4674,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Net Promoter Score (NPS), Anteil positiver Kundenrückmeldungen (%).",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#attractive-quality-elements-begeisterungsmerkmale",
         "from": "used.Community"
       }
      ,
@@ -4689,7 +4689,7 @@ var nodes = [
         "object": "Zielkategorie",
         "unit": "Kosten (€)",
         "sustainabilitydimension": "keine Angabe",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#planning-costs-planungskosten",
         "from": "used.Community"
       }
      ,
@@ -4704,7 +4704,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gesamtkosten der Planung (€), Planungszeit (Stunden/Tage)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#planning-costs-planungskosten",
         "from": "used.Community"
       }
      ,
@@ -4719,7 +4719,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Forschungs- und Entwicklungsausgaben (€), Zeit bis zur Markteinführung (Tage/Monate/Jahre)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#development-costs-entwicklungskosten",
         "from": "used.Community"
       }
      ,
@@ -4734,7 +4734,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Kosten pro Einheit (€/Stück), Gesamtkosten der Beschaffung (€)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#procurement-costs-beschaffungskosten",
         "from": "used.Community"
       }
      ,
@@ -4749,7 +4749,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gesammtkosten der Produktion (€), Kosten pro Stück (€), Energieverbrauch (kWh/Stück)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#production-costs-produktionskosten",
         "from": "used.Community"
       }
      ,
@@ -4764,7 +4764,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gesammtkosten der Distibution (€), Transportkosten pro Einheit (€), Lagerkosten pro Quadratmeter (€)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#distribution-costs-distributionskosten",
         "from": "used.Community"
       }
      ,
@@ -4779,7 +4779,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gesammtkosten für Garantie- und Gewährleistung (€), Kosten pro Garantiefall (€), durchschnittliche Fehlerquote (%)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#guarantee-and-warranty-costs-garantie--und-gew%C3%A4hrleistungskosten",
         "from": "used.Community"
       }
      ,
@@ -4794,7 +4794,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gesammtkosten EoL-Kosten(€), Entsorgungskosten pro Einheit (€), Recyclingquote (%)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#eol-costs-kosten-am-produktlebensende",
         "from": "used.Community"
       }
      ,
@@ -4809,7 +4809,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gesammtkosten für Verwaltung (€), Verwaltungskosten pro Mitarbeiter (€)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#administrative-costs-verwaltungskosten",
         "from": "used.Community"
       }
      ,
@@ -4824,7 +4824,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "Gesammtkosten für Kompensation (€), Zertifikatskosten (€)",
         "sustainabilitydimension": "Ökonomisch",
-        "link": "https://github.com/usedcommunity/used/wiki",
+        "link": "https://github.com/usedcommunity/used/wiki/used-Zielsystem#compensation-costs-kompensationskosten",
         "from": "used.Community"
       }
      ,
