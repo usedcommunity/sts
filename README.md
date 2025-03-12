@@ -13,6 +13,11 @@ Mit diesen Hintergründen wollen wir einen Überblick über die Modelle, deren Z
 
 das Tool wird 2024 zusammen mit einer Beschreibung der Anwendung veröffentlicht.
 
+# Wiki
+
+Informationen zu den Zielgrößen befinden sich im Wiki unter: https://github.com/usedcommunity/sts/wiki
+
+
 # Kontakt
 
 Product Owner: Wilke Willems >> [wilke.willems@hsu-hh.de](mailto:wilke.willems@hsu-hh.de) <<
