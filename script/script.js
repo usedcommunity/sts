@@ -1,8 +1,8 @@
 
 // Email für CONTACT Button
 function openEmail() {
-  var emailAddress = 'contact@used.community';
-  var subject = 'Nachhaltigkeitsanforderungen';
+  var emailAddress = 'contact@usedcommunity.de';
+  var subject = 'used zielsystem';
   var body = '';
 
   var mailtoLink = 'mailto:' + encodeURIComponent(emailAddress) +

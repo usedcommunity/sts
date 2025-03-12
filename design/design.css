@@ -5,13 +5,14 @@ h2 {font-size: 22px}
 h3 {font-size: 18px}
 h4 {font-size: 16px}
 
+/* main frames ---------------- */
+
 body {
   background-image: url(../pictures/bg.jpg);
   background-size: cover;
   background-attachment: fixed;
   font-family: 'Montserrat', sans-serif;
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
   height: 100vh;
   display: flex;
@@ -21,22 +22,93 @@ body {
 }
 
 .container {
-  padding: 20px;
   flex: 1;
   display: flex;
   flex-direction: column;
   height: 100%;
 }
 
-/* navigation -------------------------------- */
-
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  margin: 0;
+  margin: 10px;
 }
+
+.content {
+  width: 100%;
+  margin: 10px;
+}
+
+.left-section {
+  display: flex;
+  gap: 10px;
+}
+
+.right-section {
+  display: flex;
+  gap: 10px;
+}
+
+.graph-container {
+  display: flex;
+  justify-content: relative;
+  align-items: flex-start;
+  height: calc(100vh - 60px);
+}
+  
+#mynetwork {
+  flex-grow: 1;
+  height: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+#search-container {
+  width: 250px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: flex-start;
+  background-color: #f1f1f109;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 20%; /* Hier kannst du den Abstand nach unten anpassen */
+  left: 20px; /* Falls nötig, um es weiter links zu platzieren */
+  z-index: 2;
+}
+
+/* Buttons linksbündig ausrichten */
+#search-container button {
+  width: 100%; /* Macht die Buttons genauso breit wie der Container */
+  text-align: center; /* Text innerhalb der Buttons links ausrichten */
+}
+
+#selected-nodes {
+  width: 250px;
+  min-height: 300px;
+  padding: 10px;
+  background-color: #f1f1f109;
+  color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  right: 20px;
+  top: 37%;
+  transform: translateY(-50%);
+  z-index: 2;
+  font-size: 12px;
+}
+
+.footer{
+  margin: 10px;
+}
+
+/* navigation -------------------------------- */
 
 .navbar img {
   float: left;
@@ -85,16 +157,16 @@ nav a:active {
   }
 }
 
-/* content ---------------- */
-.content {
-width: 100%;
+.navbar-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 36px;
+  color: white;
+  font-weight: bold;
 }
 
-/* Footer --------------------------- */
-.footer{
-  margin: 10px;
-}
-
+/* Footer inhalt --------------------------- */
 .link-container {
   display: flex;
   align-items: center;
@@ -164,14 +236,6 @@ width: 100%;
   background-color: #f2f2f2;
 }
 
-/* graph ------------------------------------------------------------------------------------------ */
-
-
-.graph-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 /*  ------------------------------------------------------------------------------------------ */
 .contentbox {
@@ -182,7 +246,8 @@ width: 100%;
 
 .text-box {
   flex: 1;
-  margin-bottom: 5px; /* Abstand zwischen Text und Buttons */
+  margin-bottom: 50px; /* Abstand zwischen Text und Buttons */
+  border-radius: 5px;
 }
 
 .top-right-image {
@@ -198,35 +263,15 @@ width: 100%;
   bottom: 10px; /* Abstand vom unteren Rand des Containers */
   right: 10px; /* Abstand vom rechten Rand des Containers */
   display: flex;
-  gap: 5px; /* Abstand zwischen den Buttons */
+  gap: 1px; /* Abstand zwischen den Buttons */
 }
 
 .buttons .button {
   text-decoration: none;
   color: white;
   background-color: #007bff;
-  padding: 10px 20px;
+  padding: 10px 10px;
   border-radius: 5px;
-}
-
-
-#mynetwork {
-  margin-left: 5%;
-  margin-right: 5%;
-  width: 1600px;
-  height: 800px;
-  float: left;
-}
-
-#selected-nodes {
-  margin-left: 30px;
-  padding: 10px;
-  background-color: #f1f1f1;
-  border: 1px solid #ccc;
-  width: 200px;
-  height: 400px;
-  float: left;
-  overflow-y: auto;
 }
 
 .node-item {
@@ -252,9 +297,9 @@ width: 100%;
 
 .download-button, .reset-button {
   display: block;
-  margin: 20px auto;
+  margin: 10px auto;
   padding: 10px 20px;
-  font-size: 16px;
+  font-size: 14px;
   color: white;
   background-color: #007BFF;
   border: none;
@@ -266,17 +311,25 @@ width: 100%;
   background-color: #0056b3;
 }
 
-/* Ursprüngliches CSS für das Design */
-#search-container {
-  text-align: center;
-  margin-bottom: 20px;
+.download-button, .reset-button {
+  padding: 8px 12px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.download-button:hover, .reset-button:hover {
+  background-color: #0056b3;
 }
 
 #search-input {
-  padding: 10px;
-  font-size: 16px;
-  width: 300px;
+  padding: 15px;
+  font-size: 12px;
+  width: 80%;
   margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .context-menu {

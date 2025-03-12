@@ -17,65 +17,54 @@
 </head>
 
 <body>
+
     <div class="container">
+       
         <div class="navbar">
-            <img src="pictures/used-logo-white-top.png" alt="logo">
+            <a href="https://www.used.community" target="_blank">
+              <img src="pictures/used-logo-white-top.png" alt="logo">
+            </a>
+            
+            <h1 class="navbar-title">used Zielsystem</h1> <!-- Titel mittig -->
+            
             <nav>
-                <ul>
-                    <li><a href="index.html">used</a></li>
-                    <li><a href="data.html">requirements</a></li>
-                    <li><a href="https://github.com/usedcommunity/used/wiki" target="_blank">wiki</a></li>
-                    <li><a href="https://mastodon.social/@usedcommunity" target="_blank">blog</a></li>
-                </ul>
+              <ul>
+                <li><a href="index.html">home</a></li>
+                <li><a href="https://github.com/usedcommunity/sts" target="_blank">code</a></li>
+                <li><a href="https://github.com/usedcommunity/used/wiki" target="_blank">wiki</a></li>
+              </ul>
             </nav>
-        </div>
+          </div>
 
         <div class="content">
-            <!-- Suchfeld hinzufügen -->
-            <div id="search-container">
-                <input type="text" id="search-input" placeholder="Knoten suchen...">
-                <button class="download-button" onclick="searchNode()">Suchen</button>
-            </div>
-
+                    
             <div class="graph-container">
-                <!-- Download Button für die Excel-Datei -->
-                <button class="download-button" onclick="downloadFile()">Zielsystem Downloaden</button>
-                
-                <!-- Download Button für die Knoten- und Kantenliste -->
-                <button class="download-button" onclick="exportToExcel()">Knoten- und Kantenliste</button>
-
+                  <div id="search-container">
+                    <input type="text" id="search-input" placeholder="Knoten suchen...">
+                    <button class="download-button" onclick="searchNode()">Suchen</button>
+                    <button class="download-button" onclick="downloadFile()">Alle Ziele</button>
+                    <button class="download-button" onclick="downloadSelectedNodes()">Selektierte Ziele</button>
+                    <button class="reset-button" onclick="resetSelectedNodes()">Liste leeren</button>
+                </div>
                 <div id="mynetwork"></div>
                 <div id="context-menu" class="context-menu"></div>
-                <!-- Liste für ausgewählte Knoten -->
-                <div id="selected-nodes">
-                    <h3>Deine Ziele</h3>
-                </div>
-
-                <!-- Buttons für die Liste -->
-                <button class="download-button" onclick="downloadSelectedNodes()">Liste herunterladen</button>
-                <button class="reset-button" onclick="resetSelectedNodes()">Liste leeren</button>
-
-                
-                 
-                
+                <div id="selected-nodes"><h3>Selektierte Ziele</h3></div>
             </div>
-        </div>
     </div>
     
 
 
-    <div class="footer">
-        <div class="link-container">
-            <a class="share-button" id="shareButton1" href="https://used.community" target="_blank"><img src="pictures/used-logo-rgb-buttom.png" alt="Bild 1"></a>
-            <a class="share-button" id="shareButton3" href="imp.html" target="_blank">Imprint</a>
-            <a class="share-button" id="shareButton4" href="privacy.html" target="_blank">privacy</a>
-            <a class="share-button" onclick="openEmail()">contact</a>
+    <div class="footer"> 
+        <div class="link-container"> 
+          <a class="share-button" id="shareButton1" href="https://used.community" target="_blank"><img src="pictures/used-logo-rgb-buttom.png" alt="Bild 1"></a>
+          <a class="share-button" id="shareButton4" href="https://mastodon.social/@usedcommunity" target="_blank">mastodon</a>
+          <a class="share-button" onclick="openEmail()">contact</a>        
         </div>
-
+          
         <div class="imp-container">
-            <p class="impress">© used.community</p>
+          <p class="impress">© used.community</p> 
         </div>
-    </div> 
+    </div>
 
     <script src="script/script.js" type="text/javascript"></script> 
 </body>
