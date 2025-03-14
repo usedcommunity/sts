@@ -1265,7 +1265,7 @@ var nodes = [
        
         "label": "Land use/transformation",
         "x": 72.74166,
-        "y": -1140.5991,
+        "y": -1139.5991,
         "value": 12.0,
         "color": "#05ff00",
         "object": "Zielgröße",
@@ -4023,7 +4023,7 @@ var nodes = [
        
         "label": "Ionizing radiation",
         "x": -314.32755,
-        "y": -1395.2472,
+        "y": -1390.2472,
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
@@ -4053,7 +4053,7 @@ var nodes = [
        
         "label": "Particulate matter",
         "x": -298.52396,
-        "y": -1424.5118,
+        "y": -1421.5118,
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
@@ -4068,7 +4068,7 @@ var nodes = [
        
         "label": "Trop. ozon formation /Photochemical oxidation",
         "x": -301.85916,
-        "y": -1359.3275,
+        "y": -1351.3275,
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
@@ -4203,7 +4203,7 @@ var nodes = [
        
         "label": "Land use/transformation",
         "x": -280.87616,
-        "y": -1325.5469,
+        "y": -1319.5469,
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
@@ -4263,7 +4263,7 @@ var nodes = [
        
         "label": "Fossil resources",
         "x": -400.1819,
-        "y": -1263.9386,
+        "y": -1254.9386,
         "value": 12.0,
         "color": "#00ff09",
         "object": "Zielgröße",
@@ -4382,8 +4382,8 @@ var nodes = [
       "id": "17.25",
        
         "label": "Equal rights and justice",
-        "x": -530.72205,
-        "y": -1466.1647,
+        "x": -546.72205,
+        "y": -1460.1647,
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
@@ -4473,7 +4473,7 @@ var nodes = [
        
         "label": "Housing and sanitation",
         "x": -456.55396,
-        "y": -1480.4967,
+        "y": -1487.4967,
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
@@ -4578,7 +4578,7 @@ var nodes = [
        
         "label": "Child labor",
         "x": -538.5945,
-        "y": -1397.322,
+        "y": -1417.322,
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
@@ -4593,7 +4593,7 @@ var nodes = [
        
         "label": "Forced labor",
         "x": -514.7991,
-        "y": -1430.321,
+        "y": -1440.321,
         "value": 12.0,
         "color": "#ff0001",
         "object": "Zielgröße",
@@ -4653,7 +4653,7 @@ var nodes = [
        
         "label": "One-dimensional quality elements",
         "x": -275.07977,
-        "y": -1479.235,
+        "y": -1485.235,
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
@@ -4698,7 +4698,7 @@ var nodes = [
        
         "label": "Planning costs",
         "x": -347.0379,
-        "y": -1481.3282,
+        "y": -1458.3282,
         "value": 12.0,
         "color": "#94b4ff",
         "object": "Zielgröße",
