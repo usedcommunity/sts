@@ -133,7 +133,14 @@ function redrawAll() {
 
 }
 
-
+function downloadFile() {
+    const link = document.createElement('a');
+    link.href = 'data/sustainability target system for product development.xlsx';
+    link.download = 'data/sustainability target system for product development.xlsx';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
 
 // Suchfunktion
 function searchNode() {
