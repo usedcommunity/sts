@@ -67,7 +67,7 @@ body {
 
 #search-container {
   width: 250px;
-  min-height: 300px;
+  min-height: 10px;
   display: flex;
   flex-direction: column;
   gap: 1px;
@@ -82,8 +82,31 @@ body {
   z-index: 2;
 }
 
+#download-container {
+  width: 250px;
+  min-height: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: flex-start;
+  background-color: #f1f1f109;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 33%; /* Hier kannst du den Abstand nach unten anpassen */
+  left: 20px; /* Falls nötig, um es weiter links zu platzieren */
+  z-index: 2;
+  color: #ffffff;
+}
+
 /* Buttons linksbündig ausrichten */
 #search-container button {
+  width: 100%; /* Macht die Buttons genauso breit wie der Container */
+  text-align: center; /* Text innerhalb der Buttons links ausrichten */
+}
+
+#download-container button {
   width: 100%; /* Macht die Buttons genauso breit wie der Container */
   text-align: center; /* Text innerhalb der Buttons links ausrichten */
 }
@@ -102,6 +125,27 @@ body {
   transform: translateY(-50%);
   z-index: 2;
   font-size: 12px;
+}
+
+#unselect-nodes {
+  width: 250px;
+  min-height: 15px;
+  padding: 10px;
+  background-color: #f1f1f109;
+  color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  right: 20px;
+  top: 55%;
+  transform: translateY(-50%);
+  z-index: 2;
+  font-size: 12px;
+}
+
+#unselect-nodes button {
+  width: 100%; /* Macht die Buttons genauso breit wie der Container */
+  text-align: center; /* Text innerhalb der Buttons links ausrichten */
 }
 
 .footer{

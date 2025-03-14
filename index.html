@@ -42,13 +42,17 @@
                   <div id="search-container">
                     <input type="text" id="search-input" placeholder="Knoten suchen...">
                     <button class="download-button" onclick="searchNode()">Suchen</button>
-                    <button class="download-button" onclick="downloadFile()">Alle Ziele</button>
-                    <button class="download-button" onclick="downloadSelectedNodes()">Selektierte Ziele</button>
-                    <button class="reset-button" onclick="resetSelectedNodes()">Liste leeren</button>
                 </div>
+
+                <div id="download-container"><h3>Downloads</h3>
+                  <button class="download-button" onclick="downloadFile()">Alle Ziele</button>
+                  <button class="download-button" onclick="downloadSelectedNodes()">Selektierte Ziele</button>
+              </div>
+
                 <div id="mynetwork"></div>
                 <div id="context-menu" class="context-menu"></div>
                 <div id="selected-nodes"><h3>Selektierte Ziele</h3></div>
+                <div id="unselect-nodes"><button class="reset-button" onclick="resetSelectedNodes()">Liste leeren</button></div>
             </div>
     </div>
     

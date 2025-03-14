@@ -255,7 +255,7 @@ function removeNodeFromList(nodeId, listItem) {
 
 function resetSelectedNodes() {
     selectedNodes = [];
-    document.getElementById("selected-nodes").innerHTML = "<h3>Deine Ziele</h3>";
+    document.getElementById("selected-nodes").innerHTML = "<h3>Selektierte Ziele</h3>";
 }
 
 function downloadSelectedNodes() {
