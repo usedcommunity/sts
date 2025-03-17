@@ -1346,7 +1346,7 @@ var nodes = [
         "object": "Bewertungssystem",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1361,7 +1361,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1376,7 +1376,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1391,7 +1391,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1406,7 +1406,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1421,7 +1421,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1436,7 +1436,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1451,7 +1451,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1466,7 +1466,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1481,7 +1481,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1496,7 +1496,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1511,7 +1511,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1526,7 +1526,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
@@ -1541,7 +1541,7 @@ var nodes = [
         "object": "Zielgröße",
         "unit": "keine Angabe",
         "sustainabilitydimension": "Ökologisch",
-        "link": "https://www.openlca.org/wp-content/uploads/2015/11/LCIA-METHODS-v.1.5.4.pdf",
+        "link": "https://nexus.openlca.org/documents",
         "from": "GreenDeLTa"
       }
      ,
