@@ -11,7 +11,11 @@ Mit diesen Hintergründen wollen wir einen Überblick über die Modelle, deren Z
 
 # Anwenden
 
-das Tool wird 2024 zusammen mit einer Beschreibung der Anwendung veröffentlicht.
+Entdecke die 49 Zielgrößen für eine nachhaltige Produktentwicklung und gestalte dein eigenes nachhaltiges Zielsystem. In einem interaktiven Graphen siehst du, wie die Zielgrößen miteinander verbunden sind und aus welchen Nachhaltigkeitsmodellen sie abgeleitet wurden.
+
+Zu jedem Knoten gibt es weiterführende Informationen, die direkt angezeigt oder über ein Wiki verlinkt sind. Mit der Suchfunktion kannst du gezielt nach bestimmten Punkten suchen. Per Doppelklick legst du relevante Ziele in einer Liste ab und entwickelst so dein persönliches Zielsystem, das du anschließend herunterladen kannst. Falls du lieber alle Zielknoten exportieren möchtest, ist das ebenfalls möglich.
+
+Viel Spaß beim Erkunden der Nachhaltigkeit und beim Zusammenstellen deiner eigenen Ziele!
 
 # Wiki
 
