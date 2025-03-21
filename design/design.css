@@ -77,7 +77,7 @@ body {
   border-radius: 5px;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
   position: absolute;
-  top: 20%; /* Hier kannst du den Abstand nach unten anpassen */
+  top: 150px; /* Hier kannst du den Abstand nach unten anpassen */
   left: 20px; /* Falls nötig, um es weiter links zu platzieren */
   z-index: 2;
 }
@@ -94,7 +94,7 @@ body {
   border-radius: 5px;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
   position: absolute;
-  top: 33%; /* Hier kannst du den Abstand nach unten anpassen */
+  top: 300px; /* Hier kannst du den Abstand nach unten anpassen */
   left: 20px; /* Falls nötig, um es weiter links zu platzieren */
   z-index: 2;
   color: #ffffff;
@@ -121,7 +121,7 @@ body {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   position: absolute;
   right: 20px;
-  top: 37%;
+  top: 310px;
   transform: translateY(-50%);
   z-index: 2;
   font-size: 12px;
@@ -137,7 +137,7 @@ body {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   position: absolute;
   right: 20px;
-  top: 55%;
+  top: 517px;
   transform: translateY(-50%);
   z-index: 2;
   font-size: 12px;
